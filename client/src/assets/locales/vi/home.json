@@ -1,0 +1,142 @@
+{
+  "imageCarousel": [
+    {
+      "slogan": "MANG <pink>HẠNH PHÚC</pink> ĐẾN CHO MỌI NGƯỜI BẰNG <blue>DỮ LIỆU KẾ TOÁN</blue>"
+    },
+    {
+      "slogan": "<blue>LÀM</blue> NHỮNG VIỆC NGƯỜI KHÁC <blue>KHÔNG LÀM ĐƯỢC</blue>"
+    },
+    {
+      "slogan": "<blue>LÀM</blue> NHỮNG VIỆC NGƯỜI KHÁC <blue>KHÔNG LÀM</blue>"
+    },
+    {
+      "slogan": "<blue>LÀM</blue> NHỮNG VIỆC <blue>CÓ ÍCH</blue> CHO CUỘC ĐỜI"
+    }
+  ],
+  "serviceList": [
+    {
+      "title": "Nhật ký sản xuất Facefarm",
+      "image": "/images/facefarm_vn.jpg",
+      "slogan": "Với mong muốn góp phần thúc đẩy <bold>Chương trình chuyển đổi số</bold>, chúng tôi giải quyết các vấn đề sau cho <bold>Nông nghiệp Việt Nam</bold>",
+      "introduce": [
+        {
+          "icon": "/images/airplay.png",
+          "content": "Thiếu thông tin phục vụ sản xuất, kinh doanh, tiêu dùng và các cơ quan chuyên ngành.​"
+        },
+        {
+          "icon": "/images/pie-chart.png",
+          "content": "Chưa tích hợp dữ liệu để phân tích và đưa ra phương án khắc phục."
+        },
+        {
+          "icon": "/images/box.png",
+          "content": "Đơn vị hỗ trợ khó nắm bắt thông tin, khó triển khai kịp thời và hiệu quả."
+        },
+        {
+          "icon": "/images/frown.png",
+          "content": "Sản xuất khó khăn, sản phẩm còn phụ thuộc trung gian."
+        },
+        {
+          "icon": "/images/clipboard.png",
+          "content": "Không có lịch sử ghi chép quá trình sản xuất dẫn đến không thể truy xuất nguồn gốc sản phẩm."
+        },
+        {
+          "icon": "/images/users.png",
+          "content": "Nông dân có tâm lý chạy theo số đông, khó trao đổi kinh nghiệm và đánh giá sự phát triển của từng nông trại."
+        }
+      ],
+      "youtube": "https://www.youtube.com/watch?v=2Cy00EmEGys&list=PLNO5jHKpN8CSCxpnVawDN1_RDJqNKNAyg&index=1&ab_channel=SorimachiVi%E1%BB%87tNam",
+      "index": 1
+    },
+    {
+      "title": "Kế toán hợp tác xã WACA",
+      "image": "/images/waca_vn.jpg",
+      "slogan": "Phần mềm WACA sẽ giúp các HTX <bold>“Nâng cao năng lực quản lý tài chính, giảm thiểu chi phí”</bold> nắm bắt kịp thời tình hình kinh doanh. Và bên cạnh việc hỗ trợ công tác Kế toán HTX, WACA còn giải quyết các vấn đề sau:",
+      "introduce": [
+        {
+          "icon": "/images/edit.png",
+          "content": "Chưa sử dụng hệ thống phần mềm kế toán thống nhất."
+        },
+        {
+          "icon": "/images/book-open.png",
+          "content": "Sổ sách kế toán còn thủ công."
+        },
+        {
+          "icon": "/images/share-2.png",
+          "content": "Xử lý kế toán thiếu sót.          "
+        },
+        {
+          "icon": "/images/dollar-sign.png",
+          "content": "Khó nhận đầu tư từ doanh nghiệp tư nhân và cơ quan tài chính."
+        },
+        {
+          "icon": "/images/life-buoy.png",
+          "content": "Gặp khó khăn trong việc tổ chức kiểm toán HTX."
+        },
+        {
+          "icon": "/images/meh.png",
+          "content": "Khó tạo lòng tin cho thành viên HTX, nhà cung cấp, các tổ chức tín dụng."
+        }
+      ],
+      "youtube": "https://www.youtube.com/watch?v=lCofA723a4A&list=PLNO5jHKpN8CSCxpnVawDN1_RDJqNKNAyg&index=2&ab_channel=SorimachiVi%E1%BB%87tNam",
+      "index": 2
+    }
+  ],
+  "customerFeedback": {
+    "title": "Khách hàng nói gì về chúng tôi"
+  },
+  "developmentFigures": {
+    "market": {
+      "title": "KaiKei No.1 Boki No.1",
+      "subTitle": "THỊ TRƯỜNG NHẬT BẢN"
+    },
+    "customer": {
+      "title": "10.000+",
+      "subTitle": "KHÁCH HÀNG SỬ DỤNG"
+    },
+    "request": {
+      "title": "100.000+",
+      "subTitle": "YÊU CẦU LỚN NHỎ"
+    }
+  },
+  "trialUse": {
+    "image": "/images/homepage_register_vn.png",
+    "title": "MIỄN PHÍ 30 NGÀY!",
+    "content": "Trong 30 ngày dùng thử, quý khách sẽ được:",
+    "introduce": [
+      {
+        "content": "Trải nghiệm miễn phí đầy đủ các tính năng của phần mềm."
+      },
+      {
+        "content": "Nhận tư vấn và giải đáp thắc mắc xoay quanh phần mềm."
+      },
+      {
+        "content": "Cung cấp khóa đào tạo, chia sẻ về kiến thức nông nghiệp."
+      },
+      {
+        "content": "Sử dụng phiên bản mới nhất."
+      }
+    ],
+    "returnTitle": "Trải nghiệm giải pháp số dành cho Nông nghiệp Việt",
+    "button": [
+      {
+        "id": 1,
+        "title": "Nhật ký sản xuất FaceFarm",
+        "path": "https://facefarm.vn/ffprregister/index"
+      },
+      {
+        "id": 2,
+        "title": "Kế toán Hợp Tác Xã WACA",
+        "path": "https://waca.vn/wbs/RegisterWACA?t=637958952069327130"
+      }
+    ]
+  },
+  "breakingNews": {
+    "title": "Tin tức mới nhất",
+    "titleButton": "Xem thêm"
+  },
+  "companyProducts": "<bold>Sản phẩm công ty</bold> hiện đang có mặt trên <number>63</number> <bold>tỉnh thành</bold>",
+  "customersCooperate": {
+    "title": "Khách hàng đang sử dụng",
+    "partner": "Đối tác"
+  }
+}

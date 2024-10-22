@@ -1,0 +1,79 @@
+{
+  "titleHeader": "企業コンプライアンス",
+  "title": "企業コンプライアンス",
+  "message": "ソリマチグループは、当『コンプライアンスポリシー』に沿って、法令を遵守し、創業理念を重視した活動により、「メンバー全員の働きがいと未来豊未来豊幸せの実現」及び、「よりサスティナブルな社会へ貢献する」ことを宣言致します。",
+  "date": "２０２２年８月１日",
+  "company": "創業理念を",
+  "person": {
+    "title": "代表取締役社長",
+    "name": "反町 秀樹"
+  },
+  "compliancePrinciples": [
+    {
+      "id": 1,
+      "title": "法令等の遵守",
+      "content": "私たちは、企業人、社会人として法令及び社会規範、会社諸規程を遵守します。",
+      "image": "/images/Compliance_Principles_1.png"
+    },
+    {
+      "id": 2,
+      "title": "お客様満足の追及と信用・信頼の向上",
+      "content": "私たちは、お客様のニーズを把握して品質に優れた製品・サービスを開発、提供することにより、生活向上に寄与し、お客様の満足と信頼を獲得します。",
+      "image": "/images/Compliance_Principles_2.png"
+    },
+    {
+      "id": 3,
+      "title": "取引先との適法・適正な取引",
+      "content": "私たちは、公正な取引をすすめ、法令に反する可能性のある行為などは行いません。また、取引先からの不正行為・違法行為の勧誘は拒否いたします。",
+      "image": "/images/Compliance_Principles_3.png"
+    },
+    {
+      "id": 4,
+      "title": "契約の遵守",
+      "content": "私たちは、取引先とは公正な契約を締結し、それを遵守します。",
+      "image": "/images/Compliance_Principles_4.png"
+    },
+    {
+      "id": 5,
+      "title": "情報システムの適切な使用",
+      "content": "私たちは、会社の情報システムは業務のみに使用し、個人的な目的のための使用は行いません。",
+      "image": "/images/Compliance_Principles_5.png"
+    },
+    {
+      "id": 6,
+      "title": "機密情報・個人情報の適切な管理",
+      "content": "私たちは、自社の機密情報・他社より適法に入手した機密情報（個人情報を含む）は法令及び社内諸規程（ISMS）に則り厳密に管理を致します。",
+      "image": "/images/Compliance_Principles_6.png"
+    },
+    {
+      "id": 7,
+      "title": "適切・迅速な情報開示",
+      "content": "私たちは、親会社・投資家に経営情報を適切に開示し、透明性の高い経営に努めます。",
+      "image": "/images/Compliance_Principles_7.png"
+    },
+    {
+      "id": 8,
+      "title": "個人の尊重",
+      "content": "私たちは、人権を尊重し、国籍、人種、性別、年齢、宗教、信条、社会的身分、障害の有無等を理由とする差別やハラスメント（いやがらせ）を一切行いません。",
+      "image": "/images/Compliance_Principles_8.png"
+    },
+    {
+      "id": 9,
+      "title": "働きやすい職場の形成",
+      "content": "私たちは、労働や安全衛生に関する諸法令・社内規程を遵守し、社員の権利、安全及び健康を確保できる職場環境を維持していきます。",
+      "image": "/images/Compliance_Principles_9.png"
+    },
+    {
+      "id": 10,
+      "title": "言語",
+      "content": "本コンプライアンスポリシーはベトナム語及び日本語で作成されます。不統一の点がある場合はベトナム語版が優先されます。",
+      "image": "/images/Compliance_Principles_10.png"
+    },
+    {
+      "id": 11,
+      "title": "更新",
+      "content": "自社はコンプライアンスポリシーを変更する権利があり、その場合、変更点を共有致します。",
+      "image": "/images/Compliance_Principles_11.png"
+    }
+  ]
+}

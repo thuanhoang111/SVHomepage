@@ -1,0 +1,253 @@
+{
+  "titleHeader": "Kế toán hợp tác xã WACA",
+  "introduce": {
+    "title": "Giới thiệu",
+    "content": "Phần mềm kế toán Hợp tác xã nông nghiệp WACA được Sorimachi Việt Nam xây dựng trên nền tảng Hệ thống Web kế toán Nhật Bản của Sorimachi vốn là phần mềm chiếm thị phần số 1 trong lĩnh vực phần mềm kế toán nông nghiệp tại Nhật Bản. WACA được thiết kế phù hợp với chế độ kế toán Hợp tác xã Việt Nam với tính năng đơn giản, dễ sử dụng, phù hợp với trình độ kế toán, trình độ công nghệ thông tin của các Hợp tác xã nông nghiệp Việt Nam. Thông qua việc sử dụng phần mềm WACA, các Hợp tác xã nông nghiệp sẽ nâng cao năng lực quản lý tài chính kế toán, giúp giảm thiểu chi phí kế toán, nắm bắt kịp thời tình hình kinh doanh, góp phần nâng cao năng lực quản lý của Hợp tác xã."
+  },
+  "special": {
+    "title": "Đặc trưng của WACA",
+    "contentArr": [
+      {
+        "id": 1,
+        "content": "Phần mềm được xây dựng theo <bold>Thông tư 24/2017/TT-BTC</bold> và <bold>Thông tư 133/2016/TT-BTC</bold>.",
+        "image": "/images/waca_software.png"
+      },
+      {
+        "id": 2,
+        "content": "Sử dụng nền tảng website: luôn cập nhật thông tin mới nhất, đáp ứng đầy đủ nhu cầu quản lý, phù hợp với nghiệp vụ kế toán Hợp tác xã.",
+        "image": "/images/waca_build.png"
+      },
+      {
+        "id": 3,
+        "content": "Giải pháp hoàn hảo cho Hợp tác xã: tích hợp các tính năng tối ưu, nổi bật, giao diện dễ nhìn, dễ tìm kiếm, tiện lợi khi truy cập, thao tác nhanh chóng.",
+        "image": "/images/waca_solution.png"
+      },
+      {
+        "id": 4,
+        "content": "Hạn chế tối đa thời gian thao tác nghiệp vụ, thời gian nhập liệu chứng từ: hỗ trợ thực hiện nhanh các báo cáo kế toán cần thiết như báo cáo thuế, báo cáo tài chính, tài  sản chia và không chia v.v..",
+        "image": "/images/waca_follow.png"
+      },
+      {
+        "id": 5,
+        "content": "Chức năng quản lý đặc thù của Hợp tác xã: quản lý góp vốn, quản lý cung ứng và sử dụng dịch vụ, phân chia lợi nhuận thành viên, quản lý tín dụng nội bộ.",
+        "image": "/images/waca_manage.png"
+      },
+      {
+        "id": 6,
+        "content": "Chức năng phân tích kinh doanh: các Hợp tác xã có thể phân tích và hiểu được tình hình kinh doanh nhanh chóng.",
+        "image": "/images/waca_analysis.png"
+      },
+      {
+        "id": 7,
+        "content": "Tiết kiệm chi phí: không tốn phí cập nhật khi có sự thay đổi các quy định về chế độ kế toán.",
+        "image": "/images/waca_free.png"
+      },
+      {
+        "id": 8,
+        "content": "Bảo mật chặt chẽ: Chỉ người được cấp quyền mới được phép truy cập, truy xuất hành vi truy cập trái phép.",
+        "image": "/images/waca_role.png"
+      }
+    ]
+  },
+  "function": {
+    "title": "Các chức năng của WACA",
+    "functions": [
+      {
+        "id": 1,
+        "title": "Quản lý đặc thù",
+        "note": "TDNB: Tín dụng nội bộ",
+        "contentArr": [
+          {
+            "text": "Góp vốn thành viên"
+          },
+          {
+            "text": "Danh mục dịch vụ"
+          },
+          {
+            "text": "Cam kết của thành viên"
+          },
+          {
+            "text": "Tổng hợp cung ứng dịch vụ"
+          },
+          {
+            "text": "Tổng hợp chia lãi thành viên"
+          },
+          {
+            "text": "Hợp đồng tín dụng"
+          },
+          {
+            "text": "Báo cáo thu chi hoạt động TDNB"
+          },
+          {
+            "text": "Sổ tổng hợp phải thu TDNB"
+          },
+          {
+            "text": "Sổ tổng hợp phải trả TDNB"
+          },
+          {
+            "text": "Đăng ký số dư đầu kỳ TDNB"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Nhập nghiệp vụ",
+        "contentArr": [
+          {
+            "text": "Nhập chứng từ"
+          },
+          {
+            "text": "Phiếu thu chi"
+          },
+          {
+            "text": "Nghiệp vụ khác"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Quản lý",
+        "contentArr": [
+          {
+            "text": "Đối tượng"
+          },
+          {
+            "text": "Vật tư hàng hóa"
+          },
+          {
+            "text": "Tài sản cố định"
+          },
+          {
+            "text": "Phân bổ chi phí trả trước"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Khai báo thuế",
+        "contentArr": [
+          {
+            "text": "Bảng kê bán ra"
+          },
+          {
+            "text": "Bảng kê mua vào"
+          },
+          {
+            "text": "Bảng kê mua vào không hóa đơn"
+          },
+          {
+            "text": "Báo cáo doanh thu"
+          },
+          {
+            "text": "Hỗ trợ kê khai thuế"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Báo cáo",
+        "contentArr": [
+          {
+            "text": "Báo cáo tài chính"
+          },
+          {
+            "text": "Sổ cái tài khoản"
+          },
+          {
+            "text": "Bảng cân đối tài khoản"
+          },
+          {
+            "text": "Sổ quỹ tiền mặt"
+          },
+          {
+            "text": "Sổ tiền gửi ngân hàng"
+          },
+          {
+            "text": "Nhật ký chung"
+          },
+          {
+            "text": "Sổ theo dõi công nợ"
+          },
+          {
+            "text": "Nhập xuất tồn"
+          },
+          {
+            "text": "Báo cáo tài chính không chia"
+          },
+          {
+            "text": "Phân tích kinh doanh"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Thiết lập cơ bản",
+        "contentArr": [
+          {
+            "text": "Thiết lập thông tin HTX"
+          },
+          {
+            "text": "Thiết lập tài khoản kế toán"
+          },
+          {
+            "text": "Từ điển định khoản"
+          },
+          {
+            "text": "Từ điển diễn giải"
+          },
+          {
+            "text": "Mở sổ năm mới"
+          },
+          {
+            "text": "Kết chuyển số dư cuối kỳ"
+          },
+          {
+            "text": "Tài khoản kết chuyển"
+          },
+          {
+            "text": "Đăng ký số dư đầu kỳ"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Hỗ trợ",
+        "contentArr": [
+          {
+            "text": "Theo dõi nhật ký thao tác"
+          },
+          {
+            "text": "Chuyển đổi dữ liệu"
+          },
+          {
+            "text": "Hỗ trợ nghiệp vụ"
+          },
+          {
+            "text": "Câu hỏi thường gặp"
+          },
+          {
+            "text": "Liên lạc"
+          }
+        ]
+      }
+    ],
+    "image": "/images/banner_wc_register_vn.png"
+  },
+  "activity": {
+    "title": "Các hoạt động triển khai WACA",
+    "images": [
+      {
+        "id": 1,
+        "url": "/images/waca_banner_01.png"
+      },
+      {
+        "id": 2,
+        "url": "/images/waca_banner_02.png"
+      },
+      {
+        "id": 3,
+        "url": "/images/waca_banner_03.png"
+      }
+    ]
+  }
+}

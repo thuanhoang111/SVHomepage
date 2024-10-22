@@ -1,0 +1,274 @@
+{
+  "titleHeader": "採用",
+  "employeePolicy": {
+    "titleEmployPolicy": "労働者向けの方針",
+    "policy": [
+      {
+        "title": "自覚・想像力・自由意思",
+        "content": "100年以上続く会社を目指し、以下のような人材を求めています。",
+        "image": "/images/free_will.png",
+        "contentArr": [
+          {
+            "text": "相手の立場に立ち、柔軟に自ら考え、スピーディーな行動がとれる創造型の人材"
+          },
+          {
+            "text": "熱心で自分を完成しさせたい意思が強い"
+          }
+        ]
+      },
+      {
+        "title": "待遇方針",
+        "content": "「物質的にも精神的にも豊かな」労働環境を作り、従業員の生活を大切にしたいという考えで、ソリマチベトナムの待遇方針は、次の基準に基づいて構築されています。",
+        "image": "/images/dai_ngo.jpg",
+        "contentArr": [
+          {
+            "text": "日本への派遣"
+          },
+          {
+            "text": "日本語教室での無料日本語学習"
+          },
+          {
+            "text": "生産率と仕事質の向上"
+          },
+          {
+            "text": "公正かつ透明"
+          }
+        ]
+      },
+      {
+        "title": "待遇体制",
+        "image": "/images/dai_ngo_2.jpg",
+        "contentArr": [
+          {
+            "text": "給与：生産経営の給与（１２か月）"
+          },
+          {
+            "text": "会社の生産経営状況に応じて１３月目給与ボーナスあり"
+          },
+          {
+            "text": "手当：出張、携帯電話料金、兼任など"
+          },
+          {
+            "text": "業績に応じるボーナス"
+          },
+          {
+            "text": "正社員への社会保険・健康保険・失業保険加入"
+          }
+        ]
+      },
+      {
+        "title": "ヘルスケア",
+        "content": "従業員が常に最高の状態にあるように措置されているソリマチベトナムのヘルスケアポリシーは社員の創造性を促進し、作業効率を向上させることに焦点を当てます。",
+        "image": "/images/cham_soc_suc_khoe.jpg",
+        "contentArr": [
+          {
+            "text": "健康診断"
+          },
+          {
+            "text": "社員旅行"
+          }
+        ]
+      }
+    ]
+  },
+  "recruitmentProcess": {
+    "titleRecruitmentProcess": "採用プロセス",
+    "process": [
+      {
+        "title": "応募",
+        "image": "/images/ung_tuyen.jpg",
+        "contentArr": [
+          {
+            "text": "興味がある方は採用タブで役職の求人と応募方法を調べます。"
+          },
+          {
+            "text": "採用情報の案内に従って個人的な興味、目標、経験、学歴などの個人情報を含む応募書類や履歴書を採用部に送信します。"
+          }
+        ]
+      },
+      {
+        "title": "応募受付及び絞り込",
+        "content": "応募書類を頂いた後、弊社は相応しい応募者を選出し、選出された応募者は弊社の選択式・小論文のテストを参加します。不適切な応募について、次回の採用のために保留します。",
+        "image": "/images/tiep_nhan_ho_so.jpg"
+      },
+      {
+        "title": "選択式・小論文のテスト",
+        "image": "/images/kiem_tra.jpg",
+        "contentArr": [
+          {
+            "text": "IQ・論理的思考力のテスト"
+          },
+          {
+            "text": "応募職種に応じる専門的なテスト"
+          },
+          {
+            "text": "入社テストの形式はオンラインと対面"
+          }
+        ]
+      },
+      {
+        "title": "面接",
+        "content": "これは応募者と弊社の初対面です。面接を通して、弊社は応募者の情報をより得て求人役職に対する応募者の適性を評価できます。\n\n面接の際、弊社はコミュニケーション能力、仕事担当能力（独立またチームで）、仕事を組織して計画する能力、問題解決する思考などを考慮します。弊社も学歴、経験、スキルなど履歴書での情報をチェックします。応募者と応募職種によって、複数面接が行われます。面接で合格した応募者に対して、面接日から一週間以内に内定通知を転送します。",
+        "image": "/images/phong_van.jpg"
+      },
+      {
+        "title": "採用通知メール",
+        "content": "面接で合格した応募者は応募職種、給料、開始時期などを含む試用通知メールを受け取ります。その後は責任者と人事担当者の指導により行われます。",
+        "image": "/images/thoa_thuan_hop_dong.jpg"
+      },
+      {
+        "title": "書類の完了",
+        "content": "応募者は試用通知メールを受け取った後、新入社員の受け入れ手続きを完了するために次の書類を用意する必要があります。",
+        "image": "/images/hoan_thien_ho_so.jpg",
+        "contentArr": [
+          {
+            "text": "履歴書（原本）"
+          },
+          {
+            "text": "卒業証書（スキャン）"
+          },
+          {
+            "text": "証明書（スキャン）"
+          },
+          {
+            "text": "学習結果書、ほかの証明書"
+          },
+          {
+            "text": "顔写真（JPGファイル）"
+          }
+        ]
+      }
+    ]
+  },
+  "recruitChildren": {
+    "titleRecruitChildren": "採用",
+    "description": {
+      "title": "業務内容",
+      "content": "Windows, Web Application向けアプリケーションの開発"
+    },
+    "require": {
+      "title": "業務要求",
+      "content": "資格：ITに関する大学の既卒者もしくは卒業見込み者。\n年齢：30歳以下",
+      "contentArr": [
+        {
+          "title": "①アプリケーションのプログラミング",
+          "content": "• Borland C++ (Embarcado XE7), VC++, SQL Serverについての知識を有している"
+        },
+        {
+          "title": "②ウェブサイトのプログラミング(ASPNET)",
+          "content": "• C#, MVC, SQL Server, CSS, JS, Jquery, SQL Serverについての知識を有している"
+        },
+        {
+          "title": "③ウェブサイトのプログラミング(PHP)",
+          "content": "• PHP, CSS, JS, Jquery, MySQLについての知識を有している（Wordpress経験のある者は優先）"
+        }
+      ],
+      "note": "※スマホアプリケーションの知識を有している者は優先する"
+    },
+    "regime": {
+      "title": "待遇",
+      "contentArr": [
+        {
+          "content": "• 日本への派遣\n • 無料日本語学習、フレンドリーな仕事環境\n• 労働契約の締結後、各種保険に加入\n• 健康診断"
+        },
+        {
+          "content": "• 社員旅行、各種クラブ活動（サッカー、バドミントン など）\n• 勤務時間８：００～１７：００\n• 休暇休日完全週休2日制（土曜・日曜）、祝日"
+        }
+      ]
+    },
+    "skill": {
+      "title": "必要なスキル",
+      "content": "良い思考スキル、問題解決、チームワーク"
+    },
+    "contact": {
+      "title": "お問い合わせ先",
+      "content": {
+        "phone": "Ms. Hue Tel: ",
+        "email": "E-mail: "
+      }
+    }
+  },
+  "registrationForm": {
+    "titleRegistrationForm": "応募",
+    "register": {
+      "title": "新卒採用",
+      "content": "お手数ですが、下記のフォームに入力の上、送信して下さい。\n応募登録していただいた方には、案内情報をご送付させていただきます。\n尚、ここで登録していただいた方は、ハガキなどでの再登録は必要ありません。",
+      "name": {
+        "title": "お名前 ",
+        "placeholder": "Nguyen Van A",
+        "error": "名前をご入力ください。"
+      },
+      "address": {
+        "title": "現住所 ",
+        "placeholder": "Tuoi Tre Building, 9th Floor 60A Hoang Van Thu Str., Ward 9, Phu Nhuan Dist., HCM City",
+        "error": "住所をご入力ください。"
+      },
+      "gender": {
+        "title": "性別 ",
+        "options": [
+          {
+            "id": 1,
+            "title": "男性"
+          },
+          {
+            "id": 2,
+            "title": "女性"
+          },
+          {
+            "id": 3,
+            "title": "その他"
+          }
+        ],
+        "placeholder": "",
+        "error": "性別をご選択ください。"
+      },
+      "birthday": {
+        "title": "生年月日 ",
+        "placeholder": "",
+        "error": {
+          "required": "生年月日をご選択ください。",
+          "matches": "適合な日付をご選択ください。",
+          "test": "18歳以上と確認出来方のみご利用できます。"
+        }
+      },
+      "university": {
+        "title": "学校名 ",
+        "placeholder": "大学 ..."
+      },
+      "major": {
+        "title": "専門 ",
+        "placeholder": "情報技術",
+        "error": "専門をご入力ください。"
+      },
+      "phone": {
+        "title": "電話番号 ",
+        "placeholder": "+84-(0)28-3849-5557",
+        "error": {
+          "required": "電話番号をご入力ください。",
+          "matches": "適合な電話番号をご入力ください。"
+        }
+      },
+      "email": {
+        "title": "メールアドレス ",
+        "placeholder": "hueho@sorimachigroup.vn",
+        "error": {
+          "email": "適合なメールをご入力ください。",
+          "required": "メールをご入力ください。"
+        }
+      },
+      "contentFrom": {
+        "title": "お問い合わせ内容 ",
+        "placeholder": "お問い合わせ内容 ...",
+        "error": "内容をご入力ください。"
+      },
+      "document": {
+        "title": "添付書類",
+        "button": "ファイルを選択",
+        "message": "選択されていません"
+      },
+      "buttonSend": "送信ボタン",
+      "tooltipDelete": "すべて削除",
+      "alertSuccess": "送信成功しました！"
+    }
+  }
+}

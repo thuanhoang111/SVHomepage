@@ -1,0 +1,371 @@
+{
+  "appName": "Công ty TNHH Sorimachi Việt Nam｜Sorimachi Vietnam Co., Ltd.",
+  "contactHeader": {
+    "language": {
+      "jp": "日本語",
+      "vi": "Tiếng Việt"
+    }
+  },
+  "contactFooter": {
+    "company": {
+      "content": "Công ty chuyên đảm nhận Offshore Nhật Bản và cung cấp phần mềm nông nghiệp cho thị trường Việt Nam."
+    },
+    "service": {
+      "title": "Sản phẩm của chúng tôi",
+      "services": [
+        {
+          "id": 1,
+          "title": "Nhật ký sản xuất FaceFarm",
+          "link": "/product/faceFarmProductionLog"
+        },
+        {
+          "id": 2,
+          "title": "Kế toán Hợp tác xã WACA",
+          "link": "/product/wACACooperativeAccountant"
+        }
+      ]
+    },
+    "link": {
+      "title": "Liên kết hữu ích",
+      "links": [
+        {
+          "id": 1,
+          "title": "Tổng quan",
+          "link": "/company/overview"
+        },
+        {
+          "id": 2,
+          "title": "Nhân sự",
+          "link": "/company/personnel"
+        },
+        {
+          "id": 3,
+          "title": "Tuyển dụng",
+          "link": "/recruit"
+        },
+        {
+          "id": 4,
+          "title": "Liên hệ",
+          "link": "/contact"
+        },
+        {
+          "id": 5,
+          "title": "Nguyên tắc tuân thủ",
+          "link": "/company/compliancePrinciples"
+        },
+        {
+          "id": 6,
+          "title": "SDGs",
+          "link": "/sdgs"
+        }
+      ]
+    },
+    "contact": {
+      "title": "Liên hệ với chúng tôi"
+    },
+    "titleBottom": {
+      "company": "SORIMACHI VIET NAM",
+      "reserved": "All Rights Reserved"
+    }
+  },
+  "navigationBar": {
+    "navItems": [
+      {
+        "id": 1,
+        "name": "Trang chủ",
+        "path": "/"
+      },
+      {
+        "id": 2,
+        "name": "Sản phẩm & Dịch vụ",
+        "path": "/services",
+        "subMenus": [
+          {
+            "id": 1,
+            "name": "Thị trường Việt Nam",
+            "path": "/vietnamMarket"
+          },
+          {
+            "id": 2,
+            "name": "Dịch vụ Offshore",
+            "path": "/offshoreServices"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Thông tin công ty",
+        "path": "/company",
+        "subMenus": [
+          {
+            "id": 1,
+            "name": "Thông điệp",
+            "path": "/message"
+          },
+          {
+            "id": 2,
+            "name": "Triết lý",
+            "path": "/philosophy"
+          },
+          {
+            "id": 3,
+            "name": "Đặc trưng",
+            "path": "/special"
+          },
+          {
+            "id": 4,
+            "name": "Tổng quan Sorimachi VN",
+            "path": "/overview"
+          },
+          {
+            "id": 5,
+            "name": "Tổng quan Sorimachi Group",
+            "path": "/sorimachiGroup"
+          },
+          {
+            "id": 6,
+            "name": "Nhân sự",
+            "path": "/personnel"
+          },
+          {
+            "id": 7,
+            "name": "Nguyên tắc tuân thủ",
+            "path": "/compliancePrinciples"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Tuyển dụng",
+        "path": "/recruit"
+      },
+      {
+        "id": 6,
+        "name": "Cổng thông tin sản phẩm",
+        "path": "https://portal.sorimachi.vn/Auth/Login"
+      }
+    ],
+    "sideBarRight": [
+      {
+        "id": 1,
+        "name": "Tin tức",
+        "path": "/news"
+      },
+      {
+        "id": 2,
+        "name": "Liên hệ",
+        "path": "/contact"
+      },
+      {
+        "id": 3,
+        "name": "SDGs",
+        "path": "/sdgs"
+      }
+    ]
+  },
+  "partner": {
+    "titleHeader": "Đối tác",
+    "titleAgricultural": "Bộ NN & PTNT",
+    "titleCooperative": "Liên minh hợp tác xã",
+    "titleHightech": "Sorimachi hightech",
+    "titleGiken": "Sorimachi giken",
+    "titleKeiei": "Sorimachi keiei"
+  },
+  "servicesList": {
+    "titleHeader": "Danh mục dịch vụ",
+    "agricultural": {
+      "title": "Dịch vụ Nông nghiệp",
+      "content": "Hiện nay, ứng dụng công nghệ thông tin trong chỉ đạo điều hành,phát triển sản xuất là chủ trương lớn của Đảng và Nhà nước. Sở Nông Nghiệp và Phát triển nông thôn (NN & PTNT) đã triển khai dự án xây dựng “Phần mềm cơ sở dữ liệu chuyên ngành phục vụ quản lý, điều hành, phát triển sản xuất của ngành Nông nghiệp” . Hiện phần mềm đã hoàn thiện, đi vào hoạt động và được tăng cường triển khai thực hiện nhằm góp phần phát triển mạnh, toàn diện, bền vững ngành nông nghiệp nước nhà.",
+      "agriculturals": [
+        {
+          "id": 1,
+          "title": "Nhật ký sản xuất FaceFarm",
+          "link": "/faceFarmProductionLog",
+          "target": "_parent",
+          "image": "/images/index_VN_FF.png",
+          "download": {
+            "appStore": "https://apps.apple.com/vn/app/facefarm-nh%E1%BA%ADt-k%C3%BD-s%E1%BA%A3n-xu%E1%BA%A5t/id6443934488?itsct=apps_box_badge&amp;itscg=30200",
+            "googlePlay": "https://play.google.com/store/apps/details?id=ffvn.app.ffvn&hl=en&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"
+          }
+        },
+        {
+          "id": 2,
+          "title": "Kế toán Hợp Tác Xã WACA",
+          "link": "/wACACooperativeAccountant",
+          "target": "_parent",
+          "image": "/images/index_VN_WACA.png"
+        }
+      ]
+    }
+  },
+  "register": {
+    "titleHeader": "Đăng ký sử dụng",
+    "agricultural": {
+      "title": "Đăng ký sử dụng dịch vụ Nông nghiệp",
+      "diary": {
+        "title": "Nhật ký sản xuất FaceFram",
+        "link": "https://facefarm.vn/ffprregister/index"
+      },
+      "accounting": {
+        "title": "Kế toán HTX WACA",
+        "link": "https://waca.vn/wbs/RegisterWACA?t=637958952069327130"
+      }
+    }
+  },
+  "userManual": {
+    "titleHeader": "Hướng dẫn sử dụng",
+    "agricultural": {
+      "title": "Hướng dẫn sử dụng dịch vụ Nông nghiệp",
+      "diary": {
+        "title": "Nhật ký sản xuất FaceFram",
+        "link": "https://facefarm.vn/homepage/contact"
+      },
+      "accounting": {
+        "title": "Kế toán HTX WACA",
+        "link": "https://waca.vn/wbs/guide"
+      }
+    }
+  },
+  "agriculturalNews": {
+    "titleHeader": "Tin nông nghiệp",
+    "titleButton": "Chi tiết",
+    "titleSource": "Nguồn tin: ",
+    "agriculturalNewsData": [
+      {
+        "id": 1,
+        "date": "16/08/2022",
+        "title": "Gia Lai đau đầu với bài toán trồng rừng",
+        "link": "https://nongnghiep.vn/gia-lai-dau-dau-voi-bai-toan-trong-rung-d329967.html"
+      },
+      {
+        "id": 2,
+        "date": "16/08/2022",
+        "title": "Mô hình số hóa '3 không' của Lộc Trời",
+        "link": "https://nongnghiep.vn/mo-hinh-so-hoa-3-khong-cua-loc-troi-d329954.html"
+      },
+      {
+        "id": 3,
+        "date": "16/08/2022",
+        "title": "Chuyên gia thế giới đánh giá thế nào về thị trường phân bón Việt Nam?",
+        "link": "https://nongnghiep.vn/chuyen-gia-the-gioi-danh-gia-the-nao-ve-thi-truong-phan-bon-viet-nam-d330035.html"
+      },
+      {
+        "id": 4,
+        "date": "16/08/2022",
+        "title": "Kiên Giang nỗ lực khôi phục đàn heo sau dịch, đến nay đạt khoảng 200.000 con",
+        "link": "https://nongnghiep.vn/kien-giang-no-luc-khoi-phuc-dan-heo-sau-dich-den-nay-dat-khoang-200000-con-d329972.html"
+      },
+      {
+        "id": 5,
+        "date": "16/08/2022",
+        "title": "Trà Vinh: Phát triển 6.000ha dừa hữu cơ",
+        "link": "https://nongnghiep.vn/tra-vinh-phat-trien-6000ha-dua-huu-co-d329983.html"
+      },
+      {
+        "id": 6,
+        "date": "16/08/2022",
+        "title": "Hiệp hội Hồ tiêu Chư Sê đặt quyền lợi hội viên lên hàng đầu",
+        "link": "https://nongnghiep.vn/hiep-hoi-ho-tieu-chu-se-dat-quyen-loi-hoi-vien-len-hang-dau-d330031.html"
+      },
+      {
+        "id": 7,
+        "date": "16/08/2022",
+        "title": "Một nông dân Tây Ninh sáng chế máy phun thuốc bảo vệ thực vật, bà con bớt cực mà giá lại 'hạt rẻ'",
+        "link": "https://danviet.vn/sang-che-may-phun-thuoc-bao-ve-thuc-vat-bo-nhu-con-con-trung-khong-lo-nong-dan-tay-ninh-duoc-khen-20220816001845387.htm"
+      },
+      {
+        "id": 8,
+        "date": "15/08/2022",
+        "title": "Sơn La: Phát triển các sản phẩm OCOP thế mạnh của vùng cao",
+        "link": "https://trangtraiviet.danviet.vn/son-la-phat-trien-cac-san-pham-ocop-the-manh-cua-vung-cao-20220815135358748.htm"
+      },
+      {
+        "id": 9,
+        "date": "15/08/2022",
+        "title": "Nuôi cá lóc trong vèo, 3 tháng đã được thu, nông dân Hậu Giang vui vì bắt đến đâu bán hết đến đó",
+        "link": "https://danviet.vn/nuoi-ca-loc-trong-veo-anh-nong-dan-bat-duoc-24-tan-ca-lai-dam-20220815165035499.htm"
+      },
+      {
+        "id": 10,
+        "date": "15/08/2022",
+        "title": "Hội thi Nhà nông đua tài toàn quốc lần thứ V, khu vực 4 mở màn thành công",
+        "link": "https://danviet.vn/hoi-thi-nha-nong-dua-tai-toan-quoc-lan-thu-v-khu-vuc-4-mo-man-thanh-cong-20220815122433577.htm"
+      },
+      {
+        "id": 11,
+        "date": "14/08/2022",
+        "title": "Cho 3 loài cây 'ở chung một nhà' mà thu 2 tỷ, nông dân Kiên Giang là 'Nông dân Việt Nam xuất sắc 2022'",
+        "link": "https://danviet.vn/trong-cau-dua-dua-chung-vuon-thu-tien-ty-nong-dan-kien-giang-la-nong-dan-viet-nam-xuat-sac-2022-20220812145212065.htm"
+      },
+      {
+        "id": 12,
+        "date": "12/08/2022",
+        "title": "Mận phủ mùng lãi gấp đôi mận thường, giảm hại cho môi trường",
+        "link": "https://nongsanviet.nongnghiep.vn/man-phu-mung-lai-gap-doi-man-thuong-giam-hai-cho-moi-truong-d329645.html"
+      },
+      {
+        "id": 13,
+        "date": "10/08/2022",
+        "title": "Nhờ làm hữu cơ, nhãn Idor bám rễ 'vương quốc gạch ngói'",
+        "link": "https://nongsanviet.nongnghiep.vn/nho-lam-huu-co-nhan-idor-bam-re-vuong-quoc-gach-ngoi-d329539.html"
+      },
+      {
+        "id": 14,
+        "date": "20/02/2022",
+        "title": "Xuất khẩu lô xoài đầu năm của Đồng Tháp sang Châu Âu",
+        "link": "https://nongsanviet.nongnghiep.vn/xuat-khau-lo-xoai-dau-nam-cua-dong-thap-sang-chau-au-d316073.html"
+      },
+      {
+        "id": 15,
+        "date": "13/01/2022",
+        "title": "Lộc Trời 28 được vinh danh là gạo ngon nhất Việt Nam",
+        "link": "https://nongsanviet.nongnghiep.vn/loc-troi-28-duoc-vinh-danh-la-gao-ngon-nhat-viet-nam-d313449.html"
+      },
+      {
+        "id": 16,
+        "date": "05/01/2022",
+        "title": "Khách hàng ưa thích các sản phẩm chế biến từ thanh long",
+        "link": "https://nongsanviet.nongnghiep.vn/khach-hang-ua-thich-cac-san-pham-che-bien-tu-thanh-long-d312637.html"
+      }
+    ]
+  },
+  "linkEC": {
+    "titleHeader": "Sàn thương mại nông sản",
+    "address": "Địa chỉ:",
+    "phone": "Điện thoại:",
+    "email": "Email:",
+    "web": "Web:"
+  },
+  "frequentlyQuestions": {
+    "titleHeader": "Câu hỏi thường gặp",
+    "frequentlyQuestions": [
+      {
+        "id": 1,
+        "title": "Nhật ký sản xuất FaceFarm",
+        "questions": [
+          {
+            "childId": 1,
+            "question": "Dùng mã QRCode của phần mềm có tốn phí hay không?",
+            "answer": "Mã QRCode của phần mềm là hoàn toàn miễn phí. Số lượng mã QRCode sẽ tương đương với số lượng Nhật ký sản xuất, nên có bao nhiêu Nhật ký sản xuất là có bấy nhiêu mã QRCode."
+          },
+          {
+            "childId": 2,
+            "question": "Tôi muốn quản lý các đơn vị, nông trại khác thuộc công ty thì làm thế nào?",
+            "answer": "Chức năng quản lí của FaceFarm sẽ giúp bạn công việc đó. Hãy liên lạc với chúng tôi để đăng ký một tài khoản quản lí giúp bạn thực hiện công việc quản lý của mình một cách dễ dàng hơn."
+          },
+          {
+            "childId": 3,
+            "question": "Sau thời gian sử dụng thử, tôi muốn tiếp tục sử dụng thì làm thế nào?",
+            "answer": "Chúng tôi sẽ gửi hợp đồng và phương thức thanh toán dịch vụ sau khi quý khách liên lạc."
+          },
+          {
+            "childId": 4,
+            "question": "Nếu tôi muốn ngưng sử dụng thì dữ liệu của tôi sẽ thế nào?",
+            "answer": "Dữ liệu của khách hàng ngưng sử dụng sẽ bị xóa trong vòng 1-2 tháng. Xin liên hệ với chúng tôi nếu bạn cần những dữ liệu đó."
+          }
+        ],
+        "color": "#0BA31A"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "titleHeader": "Thị trường Việt Nam",
+  "market": {
+    "title": "Thị trường Việt Nam",
+    "contentArr": [
+      {
+        "title": "LỊCH SỬ PHÁT TRIỂN",
+        "content": "Bắt đầu từ năm 2018, hướng đến mục tiêu đóng góp vào công cuộc chuyển đổi số ở địa phương, Sorimachi Việt Nam triển khai hai dòng sản phẩm <bold>Phần mềm Nhật ký sản xuất FaceFarm</bold> và <bold>Phần mềm Kế toán Hợp tác xã WACA (TT24/BTC & TT133/BTC)</bold> ra thị trường Việt Nam. Sau nhiều nỗ lực đưa sản phẩm tiếp cận Hợp tác xã, Tổ hợp tác, Cá thể cũng như các cơ quan ban ngành quản lý nông nghiệp, WACA và FACEFARM đã được Bộ Nông nghiệp công nhận như công cụ chuyển đổi số thiết yếu trong cuộc cách mạng Chuyển đổi số nền Nông Nghiệp."
+      },
+      {
+        "title": "ĐỘI NGŨ PHÁT TRIỂN",
+        "content": "Đội ngũ chúng tôi có nhiều năm kinh nghiệm trong lĩnh vực phát triển sản phẩm cho thị trường Nhật Bản, thường xuyên được đào tạo bài bản và cập nhật kiến thức mới để đáp ứng tiêu chuẩn chất lượng của Nhật Bản. Với sự tận tâm và nỗ lực không ngừng nghỉ, chúng tôi luôn sẵn sàng cung cấp những giải pháp tối ưu mang đến sản phẩm chất lượng cao cho khách hàng của mình."
+      },
+      {
+        "title": "CAM KẾT CHẤT LƯỢNG NHẬT BẢN",
+        "content": "Các sản phẩm của chúng tôi được xây dựng dựa trên sản phẩm bán chạy hàng đầu trên thị trường Nhật Bản, vì vậy chúng tôi cam kết sản phẩm của mình có thể đáp ứng các tiêu chuẩn nghiêm ngặt, với chất lượng tuyệt vời và độ tin cậy cao. Chúng tôi luôn hướng đến sự hài lòng của khách hàng và sẽ không ngừng nỗ lực để tiếp tục cung cấp những sản phẩm tốt nhất trong tương lai."
+      },
+      {
+        "title": "BỘ PHẬN CHĂM SÓC KHÁCH HÀNG CHUYÊN NGHIỆP",
+        "content": "Chúng tôi rất thấu hiểu Nông nghiệp Việt Nam hiện nay vẫn gặp nhiều khó khăn trong việc tiếp cận công cụ chuyển đổi số. Để giải quyết vấn đề này, bên cạnh việc tổ chức hội thảo hướng dẫn, chúng tôi đã xây dựng đội ngũ chăm sóc khách hàng chuyên nghiệp sẵn sàng hỗ trợ khách hàng trong mọi tình huống. Chúng tôi cam kết sẽ tiếp nhận nhanh chóng và hiệu quả mọi góp ý của khách hàng, giúp khách hàng cảm thấy yên tâm và hài lòng khi sử dụng sản phẩm của chúng tôi."
+      }
+    ],
+    "titleSoftware": "SẢN PHẨM CHO NỀN NÔNG NGHIỆP VIỆT NAM",
+    "software": [
+      {
+        "id": 1,
+        "name": "Phần mềm Nhật ký sản xuất FaceFarm",
+        "image": "/images/banner_ffvn_vn.jpg",
+        "path": "/product/faceFarmProductionLog",
+        "color": "#61C219"
+      },
+      {
+        "id": 2,
+        "name": "Phần mềm kế toán Hợp tác xã WACA",
+        "image": "/images/banner_waca_vn.jpg",
+        "path": "/product/wACACooperativeAccountant",
+        "color": "#0C5ADB"
+      }
+    ]
+  },
+  "titleButton": "Cổng thông tin sản phẩm"
+}

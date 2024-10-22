@@ -1,0 +1,142 @@
+{
+  "imageCarousel": [
+    {
+      "slogan": "<blue>会計データ</blue> でみんなを <pink>幸せに</pink> する"
+    },
+    {
+      "slogan": "人の <blue>できない</blue> ことをや <blue>ろう</blue>"
+    },
+    {
+      "slogan": "人の <blue>やらない</blue> 事をや <blue>ろう</blue>"
+    },
+    {
+      "slogan": "世の中 <blue>のために</blue> なる事を <blue>やろう</blue>"
+    }
+  ],
+  "serviceList": [
+    {
+      "title": "生産履歴ソフトFACEFARM",
+      "image": "/images/facefarm_jp.png",
+      "slogan": "<bold>DX化プログラム</bold>に貢献する精神で、<bold>ベトナム農業</bold>における以下の課題を解決します。",
+      "introduce": [
+        {
+          "icon": "/images/airplay.png",
+          "content": "生産、営業、消費、および専門機関に貢献する情報が欠如​"
+        },
+        {
+          "icon": "/images/pie-chart.png",
+          "content": "分析および克服提案を作成するのに必要なデータが統合されていない"
+        },
+        {
+          "icon": "/images/box.png",
+          "content": "支援機関が情報を把握して迅速かつ効果的に対策を展開することは困難"
+        },
+        {
+          "icon": "/images/frown.png",
+          "content": "生産は難しく、製品が依然として仲介業者に依存している"
+        },
+        {
+          "icon": "/images/clipboard.png",
+          "content": "生産過程の履歴が記録されていないため、製品のトレーサビリティができない"
+        },
+        {
+          "icon": "/images/users.png",
+          "content": "農家は群集の集団精神を持っており、経験を共有したり、各農場の発展を評価したりすることは困難"
+        }
+      ],
+      "youtube": "https://www.youtube.com/watch?v=2Cy00EmEGys&list=PLNO5jHKpN8CSCxpnVawDN1_RDJqNKNAyg&index=1&ab_channel=SorimachiVi%E1%BB%87tNam",
+      "index": 6
+    },
+    {
+      "title": "農協向け会計ソフトWACA",
+      "image": "/images/waca_jp.png",
+      "slogan": "WACAは農協に向けて<bold>「財務管理能力を向上させ、コストを削減」</bold>をサポートし、経営状況をタイムリーに把握するのに役立ちます。 また、農協の会計作業をサポートするだけでなく、次の課題も解決します。",
+      "introduce": [
+        {
+          "icon": "/images/edit.png",
+          "content": "統一の会計ソフトシステムを利用してない"
+        },
+        {
+          "icon": "/images/book-open.png",
+          "content": "会計帳簿はまだ手作業"
+        },
+        {
+          "icon": "/images/share-2.png",
+          "content": "会計処理が不足"
+        },
+        {
+          "icon": "/images/dollar-sign.png",
+          "content": "民間企業や金融機関からの出資が困難"
+        },
+        {
+          "icon": "/images/life-buoy.png",
+          "content": "農協の監査は難しい"
+        },
+        {
+          "icon": "/images/meh.png",
+          "content": "農協のメンバー、サプライヤー、信用機関の信頼を築くのが難しい"
+        }
+      ],
+      "youtube": "https://www.youtube.com/watch?v=lCofA723a4A&list=PLNO5jHKpN8CSCxpnVawDN1_RDJqNKNAyg&index=2&ab_channel=SorimachiVi%E1%BB%87tNam",
+      "index": 7
+    }
+  ],
+  "customerFeedback": {
+    "title": "ご利用頂いたお客様からのお言葉?"
+  },
+  "developmentFigures": {
+    "market": {
+      "title": "KaiKei No.1 Boki No.1",
+      "subTitle": "日本市場"
+    },
+    "customer": {
+      "title": "10.000+",
+      "subTitle": "お客様にご利用いただいております"
+    },
+    "request": {
+      "title": "100.000+",
+      "subTitle": "ご依頼をいただきました"
+    }
+  },
+  "trialUse": {
+    "image": "/images/homepage_register_jp.png",
+    "title": "30日間の無料体験",
+    "content": "無料体験の30 日間では、次のメリットが提供されます。",
+    "introduce": [
+      {
+        "content": "全て機能を無料で体験"
+      },
+      {
+        "content": "ソフトに関するアドバイスや質問回答"
+      },
+      {
+        "content": "訓練講義、農業知識の共有"
+      },
+      {
+        "content": "最新バージョンが自動的に更新"
+      }
+    ],
+    "returnTitle": "ベトナム農業向けのDXソリューションを体験する！",
+    "button": [
+      {
+        "id": 1,
+        "title": "生産履歴ソフトFACEFARM",
+        "path": "https://facefarm.vn/ffprregister/index"
+      },
+      {
+        "id": 2,
+        "title": "農協向け会計ソフトWACA",
+        "path": "https://waca.vn/wbs/RegisterWACA?t=637958952069327130"
+      }
+    ]
+  },
+  "breakingNews": {
+    "title": "最新ニュース",
+    "titleButton": "もっと見る"
+  },
+  "companyProducts": "<bold>ソリマチベトナムの製品</bold>は<number>63</number> の<bold>市・省</bold>に出ています",
+  "customersCooperate": {
+    "title": "ご利用いただいておるお客様",
+    "partner": "パートナー"
+  }
+}

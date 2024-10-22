@@ -1,0 +1,53 @@
+{
+  "titleHeader": "Sorimachi Group",
+  "titleGroup": "Tổng quan về Sorimachi Group",
+  "groups": [
+    {
+      "id": 1,
+      "title": "Bộ phận:",
+      "content": "Bộ phận Keiei - Văn phòng kế toán thuế (2 công ty)\nBộ phận HighTech (7 công ty)\nBộ phận Human (2 công ty)\nBộ phận Quản lý (4 công ty)\nBộ phận Quốc tế (2 công ty)"
+    },
+    {
+      "id": 2,
+      "title": "Giám đốc đại diện:",
+      "content": "Sorimachi Hideki"
+    },
+    {
+      "id": 3,
+      "title": "Tổng vốn đầu tư:",
+      "content": "16.8 tỷ yên"
+    },
+    {
+      "id": 4,
+      "title": "Số lượng nhân viên:",
+      "content": "460 nhân viên"
+    }
+  ],
+  "titleDepartment": "Giới thiệu các bộ phận kinh doanh của Sorimachi Group",
+  "departments": [
+    {
+      "id": 1,
+      "title": "Bộ phận HighTech, Công ty cổ phần Sorimachi",
+      "content": "Phát triển sản phẩm và cung cấp đến người dùng cho đối tượng khách hàng là doanh nghiệp vừa và nhỏ, cá nhân, hộ kinh doanh cá thể. Sản phẩm Kế toán nông nghiệp của Sorimachi nhiều năm liền được bình chọn là sản phẩm được yêu thích nhất, chiếm thị phần lớn nhất trong các sản phẩm kế toán Nông nghiệp tại Nhật Bản.",
+      "image": "/images/Sorimachi_Group_1.png"
+    },
+    {
+      "id": 2,
+      "title": "Bộ phận Human, Công ty TNHH Sorimachi Giken",
+      "content": "Gắn liền nền tảng kinh doanh với việc tham gia theo đuổi công nghệ tiên tiến, các hoạt động tiêu chuẩn hóa phần mềm bán lẻ tại Nhật Bản. Luôn tiên phong và linh hoạt trước những nhu cầu đa dạng hóa với phương châm “Công ty luôn nhận được sự tín nhiệm của xã hội trong mọi thời đại”.",
+      "image": "/images/Sorimachi_Group_2.png"
+    },
+    {
+      "id": 3,
+      "title": "Bộ phận Keiei, Công ty TNHH Sorimachi Keiei - Văn phòng Kế toán thuế",
+      "content": "Kết nối và lắng nghe khách hàng, trân trọng và hiểu sâu sắc khách hàng của Công ty để phát hiện và giải quyết sớm các vấn đề khác nhau, cung cấp cho khách hàng những lời khuyên thích hợp một cách kịp thời.",
+      "image": "/images/Sorimachi_Group_3.png"
+    },
+    {
+      "id": 4,
+      "title": "Bộ phận Quốc tế, Công ty TNHH Sorimachi Việt Nam, Công ty TNHH Kaikei Bank",
+      "content": "Với đội ngũ nhân viên trẻ, nhiều kinh nghiệm trong lĩnh vực phát triển phần mềm, chúng tôi cung cấp những sản phẩm và dich vụ bằng nhiều ngôn ngữ phát triển đa dạng, đáp ứng yêu cầu của khách hàng và giải quyết các vấn đề của xã hội.",
+      "image": "/images/Sorimachi_Group_4.png"
+    }
+  ]
+}

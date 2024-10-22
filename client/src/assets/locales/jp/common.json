@@ -1,0 +1,365 @@
+{
+  "appName": "ソリマチベトナム",
+  "contactHeader": {
+    "language": {
+      "jp": "日本語",
+      "vi": "Tiếng Việt"
+    }
+  },
+  "contactFooter": {
+    "company": {
+      "content": "日本のオフショアを開発しながら、ベトナム市場へ農業ソフトウェアを提供している会社"
+    },
+    "service": {
+      "title": "ソリマチベトナムの製品",
+      "services": [
+        {
+          "id": 1,
+          "title": "生産履歴FaceFarm",
+          "link": "/product/faceFarmProductionLog"
+        },
+        {
+          "id": 2,
+          "title": "農協向け会計ソフトWACA",
+          "link": "/product/wACACooperativeAccountant"
+        }
+      ]
+    },
+    "link": {
+      "title": "有益リンク",
+      "links": [
+        {
+          "id": 1,
+          "title": "概要",
+          "link": "/company/overview"
+        },
+        {
+          "id": 2,
+          "title": "スタッフ紹介",
+          "link": "/company/personnel"
+        },
+        {
+          "id": 3,
+          "title": "採用",
+          "link": "/recruit"
+        },
+        {
+          "id": 4,
+          "title": "お問い合わせ",
+          "link": "/contact"
+        },
+        {
+          "id": 5,
+          "title": "企業コンプライアンス",
+          "link": "/company/compliancePrinciples"
+        },
+        {
+          "id": 6,
+          "title": "SDGs",
+          "link": "/sdgs"
+        }
+      ]
+    },
+    "contact": {
+      "title": "お問い合わせ"
+    },
+    "titleBottom": {
+      "company": "SORIMACHI VIET NAM",
+      "reserved": "All Rights Reserved"
+    }
+  },
+  "navigationBar": {
+    "navItems": [
+      {
+        "id": 1,
+        "name": "トップページ",
+        "path": "/"
+      },
+      {
+        "id": 2,
+        "name": "製品・サービス",
+        "path": "/services",
+        "subMenus": [
+          {
+            "id": 1,
+            "name": "ベトナム市場",
+            "path": "/vietnamMarket"
+          },
+          {
+            "id": 2,
+            "name": "オフショア開発",
+            "path": "/offshoreServices"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "会社情報",
+        "path": "/company",
+        "subMenus": [
+          {
+            "id": 1,
+            "name": "メッセージ",
+            "path": "/message"
+          },
+          {
+            "id": 2,
+            "name": "理念",
+            "path": "/philosophy"
+          },
+          {
+            "id": 3,
+            "name": "特徴",
+            "path": "/special"
+          },
+          {
+            "id": 4,
+            "name": "ソリマチベトナムの概要",
+            "path": "/overview"
+          },
+          {
+            "id": 5,
+            "name": "ソリマチグループ概要 ",
+            "path": "/sorimachiGroup"
+          },
+          {
+            "id": 6,
+            "name": "スタッフ紹介",
+            "path": "/personnel"
+          },
+          {
+            "id": 7,
+            "name": "企業コンプライアンス",
+            "path": "/compliancePrinciples"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "採用",
+        "path": "/recruit"
+      },
+      {
+        "id": 6,
+        "name": "製品ポータル",
+        "path": "https://portal.sorimachi.vn/Auth/Login"
+      }
+    ],
+    "sideBarRight": [
+      {
+        "id": 1,
+        "name": "ニュース",
+        "path": "/news"
+      },
+      {
+        "id": 2,
+        "name": "お問い合わせ",
+        "path": "/contact"
+      },
+      {
+        "id": 3,
+        "name": "SDGs",
+        "path": "/sdgs"
+      }
+    ]
+  },
+  "partner": {
+    "titleHeader": "パートナー",
+    "titleAgricultural": "ベトナム農業農村開発省",
+    "titleCooperative": "ベトナムの協同組合同盟",
+    "titleHightech": "ソリマチハイテクノロジーズ",
+    "titleGiken": "ソリマチ技研",
+    "titleKeiei": "ソリマチ経営"
+  },
+  "servicesList": {
+    "titleHeader": "サービス一覧",
+    "agricultural": {
+      "title": "農業サービス",
+      "content": "現在、生産と運営に情報技術を導入することは、ベトナム国家の主要政策です。 従って、農業農村開発省 (MARD) は、「農業における管理、運営、および生産開発のための専用データベース ソフトウェア構築」プロジェクトを実施しました。出来上がったソフトウェアは導入されており、国農業の強力で包括的かつ持続可能な発展に貢献で切るように、今にも続いて強化されています。",
+      "agriculturals": [
+        {
+          "id": 1,
+          "title": "生産履歴FaceFarm",
+          "link": "/faceFarmProductionLog",
+          "target": "_parent"
+        },
+        {
+          "id": 2,
+          "title": "農協向け会計ソフトWACA",
+          "link": "/wACACooperativeAccountant",
+          "target": "_parent"
+        }
+      ]
+    }
+  },
+  "register": {
+    "titleHeader": "ご利用登録",
+    "agricultural": {
+      "title": "農業サービスご利用登録はこちら",
+      "diary": {
+        "title": "生産履歴FaceFarm",
+        "link": "https://facefarm.vn/ffprregister/index"
+      },
+      "accounting": {
+        "title": "農協向け会計ソフトWACA",
+        "link": "https://waca.vn/wbs/RegisterWACA?t=637958952069327130"
+      }
+    }
+  },
+  "userManual": {
+    "titleHeader": "ご利用案内",
+    "agricultural": {
+      "title": "農業サービスご利用案内はこちらです",
+      "diary": {
+        "title": "生産履歴FaceFarm",
+        "link": "https://facefarm.vn/homepage/contact"
+      },
+      "accounting": {
+        "title": "農協向け会計ソフトWACA",
+        "link": "https://waca.vn/wbs/guide"
+      }
+    }
+  },
+  "agriculturalNews": {
+    "titleHeader": "農業ニュース",
+    "titleButton": "詳細",
+    "titleSource": "情報源: ",
+    "agriculturalNewsData": [
+      {
+        "id": 1,
+        "date": "16/08/2022",
+        "title": "Gia Lai đau đầu với bài toán trồng rừng",
+        "link": "https://nongnghiep.vn/gia-lai-dau-dau-voi-bai-toan-trong-rung-d329967.html"
+      },
+      {
+        "id": 2,
+        "date": "16/08/2022",
+        "title": "Mô hình số hóa '3 không' của Lộc Trời",
+        "link": "https://nongnghiep.vn/mo-hinh-so-hoa-3-khong-cua-loc-troi-d329954.html"
+      },
+      {
+        "id": 3,
+        "date": "16/08/2022",
+        "title": "Chuyên gia thế giới đánh giá thế nào về thị trường phân bón Việt Nam?",
+        "link": "https://nongnghiep.vn/chuyen-gia-the-gioi-danh-gia-the-nao-ve-thi-truong-phan-bon-viet-nam-d330035.html"
+      },
+      {
+        "id": 4,
+        "date": "16/08/2022",
+        "title": "Kiên Giang nỗ lực khôi phục đàn heo sau dịch, đến nay đạt khoảng 200.000 con",
+        "link": "https://nongnghiep.vn/kien-giang-no-luc-khoi-phuc-dan-heo-sau-dich-den-nay-dat-khoang-200000-con-d329972.html"
+      },
+      {
+        "id": 5,
+        "date": "16/08/2022",
+        "title": "Trà Vinh: Phát triển 6.000ha dừa hữu cơ",
+        "link": "https://nongnghiep.vn/tra-vinh-phat-trien-6000ha-dua-huu-co-d329983.html"
+      },
+      {
+        "id": 6,
+        "date": "16/08/2022",
+        "title": "Hiệp hội Hồ tiêu Chư Sê đặt quyền lợi hội viên lên hàng đầu",
+        "link": "https://nongnghiep.vn/hiep-hoi-ho-tieu-chu-se-dat-quyen-loi-hoi-vien-len-hang-dau-d330031.html"
+      },
+      {
+        "id": 7,
+        "date": "16/08/2022",
+        "title": "Một nông dân Tây Ninh sáng chế máy phun thuốc bảo vệ thực vật, bà con bớt cực mà giá lại 'hạt rẻ'",
+        "link": "https://danviet.vn/sang-che-may-phun-thuoc-bao-ve-thuc-vat-bo-nhu-con-con-trung-khong-lo-nong-dan-tay-ninh-duoc-khen-20220816001845387.htm"
+      },
+      {
+        "id": 8,
+        "date": "15/08/2022",
+        "title": "Sơn La: Phát triển các sản phẩm OCOP thế mạnh của vùng cao",
+        "link": "https://trangtraiviet.danviet.vn/son-la-phat-trien-cac-san-pham-ocop-the-manh-cua-vung-cao-20220815135358748.htm"
+      },
+      {
+        "id": 9,
+        "date": "15/08/2022",
+        "title": "Nuôi cá lóc trong vèo, 3 tháng đã được thu, nông dân Hậu Giang vui vì bắt đến đâu bán hết đến đó",
+        "link": "https://danviet.vn/nuoi-ca-loc-trong-veo-anh-nong-dan-bat-duoc-24-tan-ca-lai-dam-20220815165035499.htm"
+      },
+      {
+        "id": 10,
+        "date": "15/08/2022",
+        "title": "Hội thi Nhà nông đua tài toàn quốc lần thứ V, khu vực 4 mở màn thành công",
+        "link": "https://danviet.vn/hoi-thi-nha-nong-dua-tai-toan-quoc-lan-thu-v-khu-vuc-4-mo-man-thanh-cong-20220815122433577.htm"
+      },
+      {
+        "id": 11,
+        "date": "14/08/2022",
+        "title": "Cho 3 loài cây 'ở chung một nhà' mà thu 2 tỷ, nông dân Kiên Giang là 'Nông dân Việt Nam xuất sắc 2022'",
+        "link": "https://danviet.vn/trong-cau-dua-dua-chung-vuon-thu-tien-ty-nong-dan-kien-giang-la-nong-dan-viet-nam-xuat-sac-2022-20220812145212065.htm"
+      },
+      {
+        "id": 12,
+        "date": "12/08/2022",
+        "title": "Mận phủ mùng lãi gấp đôi mận thường, giảm hại cho môi trường",
+        "link": "https://nongsanviet.nongnghiep.vn/man-phu-mung-lai-gap-doi-man-thuong-giam-hai-cho-moi-truong-d329645.html"
+      },
+      {
+        "id": 13,
+        "date": "10/08/2022",
+        "title": "Nhờ làm hữu cơ, nhãn Idor bám rễ 'vương quốc gạch ngói'",
+        "link": "https://nongsanviet.nongnghiep.vn/nho-lam-huu-co-nhan-idor-bam-re-vuong-quoc-gach-ngoi-d329539.html"
+      },
+      {
+        "id": 14,
+        "date": "20/02/2022",
+        "title": "Xuất khẩu lô xoài đầu năm của Đồng Tháp sang Châu Âu",
+        "link": "https://nongsanviet.nongnghiep.vn/xuat-khau-lo-xoai-dau-nam-cua-dong-thap-sang-chau-au-d316073.html"
+      },
+      {
+        "id": 15,
+        "date": "13/01/2022",
+        "title": "Lộc Trời 28 được vinh danh là gạo ngon nhất Việt Nam",
+        "link": "https://nongsanviet.nongnghiep.vn/loc-troi-28-duoc-vinh-danh-la-gao-ngon-nhat-viet-nam-d313449.html"
+      },
+      {
+        "id": 16,
+        "date": "05/01/2022",
+        "title": "Khách hàng ưa thích các sản phẩm chế biến từ thanh long",
+        "link": "https://nongsanviet.nongnghiep.vn/khach-hang-ua-thich-cac-san-pham-che-bien-tu-thanh-long-d312637.html"
+      }
+    ]
+  },
+  "linkEC": {
+    "titleHeader": "農作物向け電子商取引サイト",
+    "address": "住所:",
+    "phone": "TEL:",
+    "email": "メール:",
+    "web": "ウェブサイト:"
+  },
+  "frequentlyQuestions": {
+    "titleHeader": "よくあるご質問",
+    "frequentlyQuestions": [
+      {
+        "id": 1,
+        "title": "生産履歴FaceFarmについて",
+        "questions": [
+          {
+            "childId": 1,
+            "question": "ソフトのQRコードは使用料がかかりますか?",
+            "answer": "ソフトウェアのQRコードは完全に無料で使用でき、 QRコードの数は生産履歴の数に該当します。"
+          },
+          {
+            "childId": 2,
+            "question": "会社の他の事務所や農場を管理したいのですが、どうすればいいですか?",
+            "answer": "そんな時に役立つのがFaceFarmの管理機能です。管理業務を簡単にするためにはアカウントを登録しましょう。"
+          },
+          {
+            "childId": 3,
+            "question": "無料期間終了後、契約を更新する方法をを教えてください?",
+            "answer": "ご連絡を頂いたらサービス利用契約書をお送り致します。"
+          },
+          {
+            "childId": 4,
+            "question": "解約した後、登録していた情報はどうなりますか?",
+            "answer": "停止された場合、お客様のデータは1 ～ 2か月以内に消去されます。そのデータが必要であればご連絡ください。"
+          }
+        ],
+        "color": "#0BA31A"
+      }
+    ]
+  }
+}

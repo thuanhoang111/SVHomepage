@@ -1,0 +1,113 @@
+{
+  "titleSDGs": "SDGs là gì?",
+  "contentSDGs": "SDGs (Sustainable Development Goals) là 17 mục tiêu phát triển bền vững được Liên hợp quốc đề ra tại Hội nghị thượng đỉnh tháng 9 năm 2015, được 193 quốc gia thành viên cam kết thực hiện đến năm 2030, hướng đến giải quyết các vấn đề xã hội, hiện thực hóa một tương lai nơi người dân trên toàn thế giới được sống trong môi trường hợp tác, hòa bình và thịnh vượng.",
+  "imageSDGs": "/images/img_sustainable_VN.png",
+  "titleMeaning": "Ý nghĩa của SDGs đối với doanh nghiệp",
+  "contentMeaning": "Mặc dù được ban hành bởi Liên hợp quốc nhưng SDGs đã dần trở thành ngôn ngữ chung trong lĩnh vực kinh doanh. Ngày nay, với sự thay đổi chóng mặt của xã hội và công nghệ, chúng ta khó mà hình dung được mười năm sau xã hội sẽ có hình dáng thế nào. Vì vậy SDGs không chỉ có ý nghĩa là mục tiêu được chính phủ các nước (bao gồm Việt Nam) đề ra trong chiến lược phát triển dài hạn, mà còn là trách nhiệm xã hội của doanh nghiệp, là kim chỉ nam giúp doanh nghiệp xây dựng nền tảng phát triển bền vững.",
+  "journey": {
+    "title": "Hành trình của Sorimachi Việt Nam trên con đường thực hiện mục tiêu SDGs",
+    "content": "Ý thức sâu sắc tầm quan trọng trên, kể từ năm 2016, Sorimachi Việt Nam nói riêng và Sorimachi Group nói chung đã bắt đầu thực hiện nhiều hoạt động doanh nghiệp với tiền đề là các mục tiêu SDGs, tập trung nỗ lực giải quyết các vấn đề của xã hội.",
+    "journeys": [
+      {
+        "id": 1,
+        "image": "/images/img_target2_SDGs.png",
+        "title": "Không còn nạn đói",
+        "content": "“Khảo sát cơ bản về việc áp dụng nông nghiệp thông minh vào các HTX nông nghiệp” của Sorimachi được Cơ quan hợp tác quốc tế Nhật Bản (JICA) thông qua là dự án hỗ trợ thực hiện mục tiêu SDGs, đánh dấu sự khởi đầu lĩnh vực hoạt động đóng góp cho xã hội.",
+        "icon1": "/images/icon_target2_SDGs_VN.png",
+        "icon2": null,
+        "icon3": null,
+        "color": "#D5A600"
+      },
+      {
+        "id": 2,
+        "image": "/images/img_target3_SDGs.png",
+        "title": "Sức khỏe và cuộc sống",
+        "content": "Đãi ngộ chăm lo đời sống tinh thần và tăng cường sức khỏe cho nhân viên thông qua các hoạt động thể thao như đá banh, cầu lông, teambuilding, chạy bộ gây quỹ và khám sức khỏe định kỳ hàng năm.",
+        "icon1": "/images/icon_target3_SDGs_VN.png",
+        "icon2": null,
+        "icon3": null,
+        "color": "#00953B"
+      },
+      {
+        "id": 3,
+        "image": "/images/img_target5_SDGs.png",
+        "title": "Bình đẳng giới",
+        "content": "Thúc đẩy bình đẳng giới với các hoạt động chúc mừng ngày Quốc tế Phụ nữ 8/3, ngày Phụ nữ Việt Nam 20/10, trợ cấp thai sản và tạo điều kiện tốt nhất để nhân viên nữ có con nhỏ an tâm làm việc với khẩu hiệu “Phụ nữ tỏa sáng”.",
+        "icon1": "/images/icon_target5_SDGs_VN.png",
+        "icon2": null,
+        "icon3": null,
+        "color": "#E73819"
+      },
+      {
+        "id": 4,
+        "image": "/images/img_target8_SDGs.png",
+        "title": "Công việc tốt và tăng trưởng kinh tế",
+        "content": "Với các bằng sáng chế về kế toán AI, thanh toán không tiền mặt, Công ty hướng đến mục tiêu thách thức các lĩnh vực tăng trưởng trong tương lai, trở thành Doanh nghiệp khoa học dữ liệu kế toán duy nhất tại Nhật Bản và Việt Nam.",
+        "icon1": "/images/icon_target8_SDGs_VN.png",
+        "icon2": null,
+        "icon3": null,
+        "color": "#960A2F"
+      },
+      {
+        "id": 5,
+        "image": "/images/img_target9_SDGs.png",
+        "title": "Công nghiệp, sáng tạo và phát triển hạ tầng",
+        "content": "Hướng đến trở thành Doanh nghiệp triển khai nền tảng cơ bản phát triển xã hội cho từng ngành nghề với việc sở hữu các bằng sáng chế về kế toán AI tạo nền tảng cung cấp thông tin tín dụng nhanh chóng, liên kết mPOS v.v..",
+        "icon1": "/images/icon_target9_SDGs_VN.png",
+        "icon2": null,
+        "icon3": null,
+        "color": "#EB6A02"
+      },
+      {
+        "id": 6,
+        "image": "/images/img_target10_SDGs.png",
+        "title": "Giảm bất bình đẳng",
+        "content": "Tại Việt Nam, Công ty nỗ lực giảm thiểu bất bình đẳng giữa người với người, giữa quốc gia với quốc gia thông qua việc tạo điều kiện cho nhân viên tham gia các kỳ thi ngoại ngữ, huấn luyện kỹ thuật, phái cử sang Nhật… với mục tiêu nâng cao năng lực của nhân viên.",
+        "icon1": "/images/icon_target10_SDGs_VN.png",
+        "icon2": null,
+        "icon3": null,
+        "color": "#DC0179"
+      },
+      {
+        "id": 7,
+        "image": "/images/img_target11_SDGs.png",
+        "title": "Thành phố và cộng đồng bền vững",
+        "content": "Công ty đóng góp vào sự phát triển của cộng đồng và bảo vệ môi trường sống thông qua các hoạt động tình nguyện dọn dẹp vệ sinh, làm sạch địa phương nơi cư trú.",
+        "icon1": "/images/icon_target11_SDGs_VN.png",
+        "icon2": null,
+        "icon3": null,
+        "color": "#F4A000"
+      },
+      {
+        "id": 8,
+        "image": "/images/img_target13_14_15_SDGs.png",
+        "title": "Tài nguyên môi trường",
+        "content": "Chọn hình ảnh biểu tượng là chú chim cánh cụt đầu đàn (First Penguin), Công ty đã và đang tích cực tham gia đóng góp gây quỹ cho tổ chức phi chính phủ (iNGO) trong lĩnh vực bảo tồn đa dạng sinh học và môi trường sống của loài chim (BirdLife).",
+        "icon1": "/images/icon_target13_SDGs_VN.png",
+        "icon2": "/images/icon_target14_SDGs_VN.png",
+        "icon3": "/images/icon_target15_SDGs_VN.png",
+        "color": "#24A639"
+      },
+      {
+        "id": 9,
+        "image": "/images/img_target16_SDGs.png",
+        "title": "Hòa bình và công lý",
+        "content": "Tham gia tài trợ Lễ hội pháo hoa Nagaoka được tổ chức nhằm tưởng niệm, tri ân những người đã khuất trong các cuộc không kích, các bậc tiền nhân đã nỗ lực tái thiết cuộc sống, cầu nguyện cho hòa bình thế giới.",
+        "icon1": "/images/icon_target16_SDGs_VN.png",
+        "icon2": null,
+        "icon3": null,
+        "color": "#004B85"
+      },
+      {
+        "id": 10,
+        "image": "/images/img_target17_SDGs.png",
+        "title": "Quan hệ đối tác vì các mục tiêu",
+        "content": "Công ty đóng góp vào sự phát triển của cộng đồng và bảo vệ môi trường sống thông qua các hoạt động tình nguyện dọn dẹp vệ sinh, làm sạch địa phương nơi cư trú.",
+        "icon1": "/images/icon_target17_SDGs_VN.png",
+        "icon2": null,
+        "icon3": null,
+        "color": "#002F67"
+      }
+    ]
+  }
+}

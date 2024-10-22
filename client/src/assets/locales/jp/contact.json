@@ -1,0 +1,44 @@
+{
+  "titleHeader": "お問い合わせ",
+  "formContact": {
+    "title": "お問い合わせ",
+    "content": "皆さまからのご意見・お問い合わせにつきましては、下記お問い合わせフォームよりお気軽にお問い合わせください。\n是非お話をお聞かせください！",
+    "name": {
+      "title": "お名前 ",
+      "placeholder": "Nguyen Van A",
+      "error": "名前をご入力ください。"
+    },
+    "company": {
+      "title": "代表者名",
+      "placeholder": "Sorimachi Việt Nam"
+    },
+    "address": {
+      "title": "現住所 ",
+      "placeholder": "Tuoi Tre Building, 9th Floor 60A Hoang Van Thu Street, Ward 9, Phu Nhuan District., HCM City"
+    },
+    "phone": {
+      "title": "電話番号 ",
+      "placeholder": "+84-(0)28-3849-5557",
+      "error": {
+        "required": "電話番号をご入力ください。",
+        "matches": "適合な電話番号をご入力ください。"
+      }
+    },
+    "email": {
+      "title": "メールアドレス ",
+      "placeholder": "hueho@sorimachigroup.vn",
+      "error": {
+        "email": "適合なメールをご入力ください。",
+        "required": "メールをご入力ください。"
+      }
+    },
+    "contentForm": {
+      "title": "お問い合わせ内容 ",
+      "placeholder": "お問い合わせ内容 ...",
+      "error": "内容をご入力ください。"
+    },
+    "buttonSend": "送信ボタン",
+    "tooltipDelete": "すべて削除",
+    "alertSuccess": "送信成功しました！"
+  }
+}

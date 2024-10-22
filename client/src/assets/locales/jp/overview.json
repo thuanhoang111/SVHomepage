@@ -1,0 +1,46 @@
+{
+  "titleHeader": "概要",
+  "title": "ソリマチベトナムの概要",
+  "overviews": [
+    {
+      "id": 1,
+      "title": "会長:",
+      "content": "税理士、ＩＴコーディネータ　 反町　秀樹"
+    },
+    {
+      "id": 2,
+      "title": "社長:",
+      "content": "高橋　昭彦"
+    },
+    {
+      "id": 3,
+      "title": "所在地:",
+      "content": "Tuoi Tre Building, 9th Floor 60A Hoang Van Thu Street, Ward 9,   Phu Nhuan District., HCM City."
+    },
+    {
+      "id": 4,
+      "title": "TEL:",
+      "content": "+84-(0)28-3849-5557"
+    },
+    {
+      "id": 5,
+      "title": "FAX:",
+      "content": "+84-(0)28-3849-5677"
+    },
+    {
+      "id": 6,
+      "title": "設立:",
+      "content": "2006年10月"
+    },
+    {
+      "id": 7,
+      "title": "資本金:",
+      "content": "100,000USD"
+    },
+    {
+      "id": 8,
+      "title": "取引銀行:",
+      "content": "Mitsubishi Tokyo UFJ銀行, Hồ Chí Minh支店, ABBANK"
+    }
+  ]
+}

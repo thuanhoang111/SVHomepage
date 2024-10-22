@@ -1,0 +1,68 @@
+{
+  "titleHeader": "Nhân sự",
+  "personnels": [
+    {
+      "id": 1,
+      "title": "“Phấn đấu nâng cao nền tảng Kinh doanh”",
+      "content": "Tăng cường nền tảng quản lý, hướng đến trở thành một công ty phát triển bền vững, mang lại sự hài lòng cho khách hàng địa phương.",
+      "position": "Giám đốc tài chính",
+      "name": "NGUYỄN HƯƠNG QUÊ",
+      "department": "BỘ PHẬN QUẢN LÝ",
+      "image": "/images/Mrs.Que.jpg"
+    },
+    {
+      "id": 2,
+      "title": "“Khi chuẩn bị thì cần suy nghĩ bi quan nhưng khi thực hiện thì luôn lạc quan.”",
+      "content": "Phấn đấu trở thành một người nhân viên SG luôn chuẩn bị kỹ lưỡng để có thể đối phó với những tình huống xấu nhất; đối với mọi việc luôn tự tin, lạc quan hành động.",
+      "position": "Giám đốc phát triển dự án thị trường Việt Nam",
+      "name": "NGUYỄN HỒNG CHÂU",
+      "department": "BỘ PHẬN PHÁT TRIỂN SẢN PHẨM TRONG NƯỚC",
+      "image": "/images/Mr.Chau.jpg"
+    },
+    {
+      "id": 3,
+      "title": "“Phẩm chất của bản thân”",
+      "content": "Chúng ta không được thỏa mãn với hiện tại mà phải thực hiện đổi mới với phương châm “Từ bỏ – thay đổi – bắt đầu”.",
+      "position": "Giám đốc phát triển dự án thị trường Nhật Bản",
+      "name": "NGUYỄN THANH THẢO",
+      "department": "BỘ PHẬN PHÁT TRIỂN SẢN PHẨM OFFSHORE",
+      "image": "/images/Mr.Thao.jpg"
+    },
+    {
+      "id": 4,
+      "title": "“Làm những việc người khác không làm được”",
+      "content": "(Bên trong điều bình thường đó có cái gì sai không?) Phấn đấu trở thành một nhân viên mà trong mọi tình huống kinh doanh luôn luôn tự đặt ra câu hỏi và tự tìm câu trả lời, luôn phấn đấu để đạt được vị trí số 1; quán triệt chủ nghĩa tam hiện (hiện trường, hiện vật, hiện thực) để tìm ra những việc người khác không làm được và thực hiện điều đó.",
+      "position": "Quản lý dự án thị trường Nhật Bản\nTrưởng phòng đào tạo",
+      "name": "THÁI THÀNH TÂM",
+      "department": "BỘ PHẬN PHÁT TRIỂN PHẦN MỀM NGHIỆP VỤ",
+      "image": "/images/Mr.Tam.jpg"
+    },
+    {
+      "id": 5,
+      "title": "“Hạnh phúc của người khác là hạnh phúc của bản thân”",
+      "content": "Phấn đấu trở thành một người nhân viên SG luôn có suy nghĩ là để bản thân mình được hạnh phúc thì ta cần mang hạnh phúc đến cho người khác, luôn ý thức là mình có công ăn việc làm và luôn biết cảm tạ, cảm phục, cảm động đối với cuộc đời.",
+      "position": "Quản lý dự án thị trường Nhật Bản\nTrưởng phòng quản lý khách hàng",
+      "name": "NGUYỄN DUY SƠN",
+      "department": "BỘ PHẬN PHÁT TRIỂN PHẦN MỀM NÔNG NGHIỆP",
+      "image": "/images/Mr.Son.jpg"
+    },
+    {
+      "id": 6,
+      "title": "“Không ngủ quên trong chiến thắng”",
+      "content": "Cho dù tình hình đang tiến triển thuận lợi nhưng lúc nào cũng cần triệt tiêu “sự ỷ lại, sự tự mãn, kiêu hãnh, làm việc theo thói quen không có sự sáng tạo”.",
+      "position": "Giám đốc phát triển dự án nông nghiệp",
+      "name": "NGUYỄN THANH MỘNG",
+      "department": "BỘ PHẬN PHÁT TRIỂN PHẦN MỀM NÔNG NGHIỆP",
+      "image": "/images/Mr.Mong.jpg"
+    },
+    {
+      "id": 7,
+      "title": "“Đời người chỉ có một lần”",
+      "content": "Không phải chúng ta sống được chỉ nhờ vào sức lực của bản thân mà chúng ta sống được còn nhờ vào một sức mạnh to lớn mà ta không nhìn thấy được. Nếu chúng ta có suy nghĩ “nhờ …” “cám ơn …” thì thái độ sẽ thay đổi, thái độ thay đổi thì hành động sẽ thay đổi, hành động thay đổi thì thói quen sẽ thay đổi, thói quen thay đổi thì nhân cách sẽ thay đổi, nhân cách thay đổi thì cuộc đời cũng sẽ thay đổi theo. Chúng ta phấn đấu trở thành một người nhân viên SG luôn biết ơn cuộc đời.",
+      "position": "Quản lý dự án thị trường Nhật Bản\nTrưởng phòng hỗ trợ khách hàng",
+      "name": "LÊ VĂN LỢI",
+      "department": "BỘ PHẬN PHÁT TRIỂN PHẦN MỀM NGHIỆP VỤ",
+      "image": "/images/Mr.Loi.jpg"
+    }
+  ]
+}

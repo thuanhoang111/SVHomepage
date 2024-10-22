@@ -1,0 +1,68 @@
+{
+  "titleHeader": "スタッフ紹介",
+  "personnels": [
+    {
+      "id": 1,
+      "title": "「企業の経営基盤の強化に努力する」",
+      "content": "経営基盤の強化に努力し、現地のお客様に喜んで頂ける持続可能な成長企業を目指します。",
+      "position": "財務責任者 - CFO",
+      "name": "NGUYEN HUONG QUE",
+      "department": "管理部",
+      "image": "/images/Mrs.Que.jpg"
+    },
+    {
+      "id": 2,
+      "title": "「悲観的に計画し、楽観的に実行する」",
+      "content": "我々は常に最悪の事態に対応できるよう徹底的に準備し、事にあたって楽観的に自信をもって行動できるSG社員を目指します。",
+      "position": "国内事業責任者",
+      "name": "NGUYEN HONG CHAU",
+      "department": "国内事業部",
+      "image": "/images/Mr.Chau.jpg"
+    },
+    {
+      "id": 3,
+      "title": "「自己のあり方」",
+      "content": "我々は、現状に満足せず、常に「やめる・改める・創める」のイノベーションを実践します。",
+      "position": "オフショア事業責任者",
+      "name": "NGUYEN THANH THAO",
+      "department": "オフショア事業部",
+      "image": "/images/Mr.Thao.jpg"
+    },
+    {
+      "id": 4,
+      "title": "「人のできないことをやる」",
+      "content": "「その常識に偽りないか」我々はビジネスにおけるあらゆるシーンで自問自答を怠らず、常に一番を目指し、現地・現品・現場主義により、人のできないことを発見・実行する社員を目指します。",
+      "position": "オフショア事業マネージャー\n教育担当者（兼）",
+      "name": "THAI THANH TAM",
+      "department": "業務ソフト開発事業部",
+      "image": "/images/Mr.Tam.jpg"
+    },
+    {
+      "id": 5,
+      "title": "「自利とは利他をいう」",
+      "content": "我々は自分が幸せになるために、まず他人を幸せにする。その為に我々の仕事があると常に考え、感謝・感心・感動あるSG社員を目指します。",
+      "position": "オフショア事業マネージャー\n顧客管理担当者（兼）",
+      "name": "NGUYEN DUY SON",
+      "department": "農業ソフト開発部",
+      "image": "/images/Mr.Son.jpg"
+    },
+    {
+      "id": 6,
+      "title": "「勝って兜の緒を締めろ」",
+      "content": "我々は、好調な時こそ「甘え・うぬぼれ・おごり・マンネリ」を退治する常在戦場の考え方を大切にします。",
+      "position": "農業事業推進責任者",
+      "name": "NGUYEN THANH MONG",
+      "department": "農業ソフト開発部",
+      "image": "/images/Mr.Mong.jpg"
+    },
+    {
+      "id": 7,
+      "title": "「人生の一回性」",
+      "content": "自分の力でこの世を生きているのではなく、見えざる大きな力によって自分は生かされている。「お陰さまで」「ありがたい」　考えが変われば態度が、態度が変われば行動が、行動が変われば習慣が、習慣が変われば人格が、人格が変われば人生が変わる。我々は、いつでも感謝の気持ちを忘れないSG社員を目指します。",
+      "position": "オフショア事業マネージャー\n顧客サポート担当者（兼）",
+      "name": "LE VAN LOI",
+      "department": "業務ソフト開発事業部",
+      "image": "/images/Mr.Loi.jpg"
+    }
+  ]
+}

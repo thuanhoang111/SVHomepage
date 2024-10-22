@@ -1,0 +1,145 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+body {
+  margin: 0;
+  font-family: -apple-system, "Inter", "Segoe UI", "Roboto", "Oxygen", "Ubuntu",
+    "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+.font-inter {
+  font-family: "Inter", cursive;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.swiper-pagination {
+  display: none !important;
+}
+
+/* .swiper-button-prev {
+  color: #0C5ADB !important;
+  border: 2px solid #0C5ADB !important;
+  width: 44px !important;
+  height: 44px !important;
+  border-radius:  100px !important;
+}
+
+.swiper-button-next {
+  color: #0C5ADB !important;
+  border: 2px solid #0C5ADB !important;
+  width: 44px !important;
+  height: 44px !important;
+  border-radius:  100px !important;
+} */
+
+.swiper-button-prev::after {
+  font-size: 25px !important;
+}
+
+.swiper-button-next::after {
+  font-size: 25px !important;
+}
+
+.swiper-button-prev {
+  display: none !important;
+}
+
+.swiper-button-next {
+  display: none !important;
+}
+
+.mySwiper {
+  padding: 0px !important;
+}
+
+#root {
+  white-space: pre-line;
+}
+
+.class-author {
+  word-break: break-word;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 1; /* number of lines to show */
+  -webkit-box-orient: vertical;
+}
+
+.class-title {
+  word-break: break-word;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2; /* number of lines to show */
+  -webkit-box-orient: vertical;
+}
+
+.class-description {
+  word-break: break-word;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3; /* number of lines to show */
+  -webkit-box-orient: vertical;
+}
+
+.class-description-agriculture {
+  word-break: break-word;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2; /* number of lines to show */
+  -webkit-box-orient: vertical;
+}
+
+.class-content-home {
+  word-break: break-word;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 10; /* number of lines to show */
+  -webkit-box-orient: vertical;
+}
+
+.swiper {
+  width: 100%;
+  padding: 8px !important;
+  padding-bottom: 40px !important;
+}
+
+.swiper-slide {
+  height: auto !important;
+}
+
+.MuiAccordionSummary-content {
+  margin: 6px 0 !important;
+}
+
+.header {
+  position: relative;
+  transform: translateY(-150px);
+  opacity: 0;
+  transition: 1s all ease;
+}
+
+.header.active {
+  transform: translateY(0);
+  opacity: 1;
+}
+
+.active {
+  opacity: 1;
+}
+
+.unactive {
+  opacity: 0.2;
+}

@@ -1,0 +1,217 @@
+{
+  "titleHeader": "Nhật ký sản xuất FaceFarm",
+  "introduce": {
+    "title": "Giới thiệu",
+    "content": "Với tâm niệm 'Niềm vui của khách hàng là hạnh phúc của bản thân', chúng tôi hy vọng Nhật ký sản xuất FaceFarm sẽ giúp đơn vị của bạn ngày càng phát triển và mở rộng.\nKhi sử dụng Nhật ký sản xuất FaceFarm, bạn có thể theo dõi đơn vị của mình mọi lúc mọi nơi, nhanh chóng ghi lại các công việc trên Đất - Cơ sở bằng các thiết bị như smartphone, máy tính bảng, máy tính...\nBên cạnh đó, việc đánh giá sự phát triển của đơn vị cũng là một trong những khó khăn của người nông dân. Vì thế để giải quyết nỗi khó khăn này cho nông dân, chúng tôi đã tạo ra những công cụ hỗ trợ dựa trên nền tảng Google Map giúp bạn có thể đánh giá đơn vị của mình một cách trực quan, thuận tiện và chính xác hơn.\nHãy cùng chúng tôi bắt đầu một trải nghiệm sản xuất mới với tiện ích đám mây nào !!!"
+  },
+  "special": {
+    "title": "Đặc trưng của FaceFarm",
+    "image": "/images/chuc_nang_chinh_cua_facefarm.png",
+    "contentArr": [
+      {
+        "id": 1,
+        "title": "Quản lý Đất - Cơ sở bằng Google Map",
+        "content": "Trên Nhật ký sản xuất FaceFarm, tùy thuộc vào nội dung của Nhật ký sản xuất đã đăng ký và các điều kiện tìm kiếm như hiển thị theo Sản phẩm, hiển thị theo công việc chưa thực hiện, công việc sử dụng nông dược,... các Đất - Cơ sở sẽ được hiển thị với các màu sắc khác nhau, qua đó bạn có thể đánh giá tình hình Đất - Cơ sở mà bạn đã và đang làm trong khi xem bản đồ. Bên cạnh đó, 'Sản lượng sản phẩm trên mỗi hecta' hay 'Chi phí',... cũng được thể hiện rõ theo từng màu sắc khác nhau giúp bạn dễ dàng quản lý từng Đất - Cơ sở.",
+        "image": "/images/facefarm_land_management.png"
+      },
+      {
+        "id": 2,
+        "title": "Lập kế hoạch công việc dễ dàng",
+        "content": "Nhật ký sản xuất FaceFarm hỗ trợ bạn lập kế hoạch và lưu lại nhật ký sản xuất. Nếu bạn lập kế hoạch chi tiết trước khi thực hiện sản xuất thực tế, bạn có thể dễ dàng chia sẻ những công việc cần thực hiện với tất cả nhân công trong đơn vị. Nếu không có thay đổi so với kế hoạch khi làm việc, bạn có thể dùng kế hoạch đó để lưu trữ lại như nhật ký sản xuất để sử dụng vào các mùa vụ tiếp theo. Chi tiết kế hoạch cũng có thể được nhập theo nhiều cách khác nhau giúp bạn dễ dàng tạo kế hoạch mới.",
+        "image": "/images/facefarm_plan.png"
+      },
+      {
+        "id": 3,
+        "title": "Quản lý việc sử dụng Nông dược",
+        "content": "Nhật ký sản xuất FaceFarm có thể giúp bạn đăng ký thông tin về nông dược một cách chính xác. Thông tin về nông dược đã được cập nhật dựa trên dữ liệu của phần mềm Thuốc BVTV của Cục Bảo vệ thực vật (PPD). Khi tạo một kế hoạch sản xuất, bạn có thể kiểm tra trước tính chính xác và phù hợp về liều lượng, cách sử dụng,... của nông dược bằng cách liên kết nông dược mà bạn đăng ký trong chức năng Danh mục với kho thuốc của FaceFarm. Tất nhiên bạn cũng có thể hiển thị lượng sử dụng nông dược trên Đất - Cơ sở theo các màu sắc chỉ định trên bản đồ Google Map. Hãy cùng nhau hướng tới thời đại nông nghiệp thông minh.",
+        "image": "/images/facefarm_medicine.png"
+      },
+      {
+        "id": 4,
+        "title": "Quản lý thời gian làm việc dễ dàng",
+        "content": "Bạn có thể tạo nhân công đăng ký công việc cho từng người ở bất cứ nơi đâu, bất cứ lúc nào, ở nơi bạn làm việc, và kiểm tra tiến độ công việc cũng như tổng thời gian làm việc,... Việc này rất dễ dàng với FaceFarm. Vì bạn có thể nắm vững mức độ kỹ năng của từng nhân viên, bạn có thể có được thông tin rất hữu ích không chỉ để tính lương mà còn xem xét hiệu quả công việc.",
+        "image": "/images/facefarm_time.png"
+      },
+      {
+        "id": 5,
+        "title": "Truy xuất nhanh chóng nhật ký sản xuất",
+        "content": "Nhật ký sản xuất trên FaceFarm có thể được xuất ra dưới dạng Excel chỉ bằng một lần nhấp chuột. Chúng tôi có nhiều định dạng cho tập tin Excel để bạn dễ dàng sử dụng.",
+        "image": "/images/chuc_nang_truy_xuat.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Tích lũy kinh nghiệm sản xuất",
+        "content": "Ưu điểm lớn nhất của Facefarm là các dữ liệu khác nhau mà bạn nhập sẽ được lưu trữ lại và đúc kết thành kinh nghiệm để sử dụng cho các mùa vụ sau hoặc chia sẻ cho các đơn vị khác. Khác với ghi chú hay tài liệu viết bằng tay, bạn có thể xem lại toàn bộ lịch sử sản xuất trong quá khứ và các hình ảnh, video đính kèm một cách nhanh chóng và an toàn.",
+        "image": "/images/chuc_nang_tich_luy.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Truy xuất nguồn gốc bằng mã QRCode",
+        "content": "Nhật ký sản xuất FaceFarm giúp khách hàng có thể truy xuất nguồn gốc sản phẩm qua mã QR, giúp các doanh nghiệp trong việc bảo vệ thương hiệu, bảo vệ uy tín, bảo vệ sản phẩm và bảo vệ khách hàng. Mã QR truy xuất nguồn gốc theo từng nhóm sản phẩm, mỗi nhóm sản phẩm FaceFarm sẽ có một mã QR Code trước khi đưa ra thị trường, không cần sử dụng biện pháp chống hàng giả hàng nhái giúp tiết kiệm chi phí. Khi sản phẩm được dán tem có mã QR đưa ra thị trường, khách hàng có thể dùng các app có tính năng quét (zalo, viber, wechat…) để quét mã truy xuất sẽ truy xuất được nguồn gốc của sản phẩm.",
+        "image": "/images/chuc_nang_truy_xuat_qrcode.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Chức năng quản lí",
+        "content": "Chức năng quản lí giúp chủ doanh nghiệp đồng thời quản lý được nhiều đơn vị ở các vùng tỉnh khác nhau, hiểu và nắm rõ được nhật ký sản xuất của từng đơn vị. Giúp thuận tiện trong việc phân chia công việc của đơn vị. Ngoài ra có thể kiểm tra tình trạng ghi chép Nhật ký sản xuất của từng đơn vị trực quan và dễ dàng hơn.",
+        "image": "/images/facefarm_manage.png"
+      }
+    ]
+  },
+  "function": {
+    "title": "Các chức năng của FaceFarm",
+    "functions": [
+      {
+        "id": 1,
+        "title": "Danh mục",
+        "contentArr": [
+          {
+            "text": "Nhân công"
+          },
+          {
+            "text": "Sản phẩm"
+          },
+          {
+            "text": "Công việc / Tình trạng"
+          },
+          {
+            "text": "Nông dược"
+          },
+          {
+            "text": "Phân bón"
+          },
+          {
+            "text": "Nguyên vật liệu"
+          },
+          {
+            "text": "Đất - Cơ sở"
+          },
+          {
+            "text": "Thiết bị - Máy móc"
+          },
+          {
+            "text": "Tùy chọn"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Kế hoạch",
+        "contentArr": [
+          {
+            "text": "Lập kế hoạch"
+          },
+          {
+            "text": "Chi tiết kế hoạch"
+          },
+          {
+            "text": "Hiển thị công việc - Tình trạng"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Nhật ký",
+        "contentArr": [
+          {
+            "text": "Lập nhật ký sản xuất"
+          },
+          {
+            "text": "Quản lý mã QRCode"
+          },
+          {
+            "text": "Chi tiết nhật ký sản xuất"
+          },
+          {
+            "text": "Nhập công việc theo ngày"
+          },
+          {
+            "text": "Nhập công việc theo bản đồ"
+          },
+          {
+            "text": "Hiển thị công việc"
+          },
+          {
+            "text": "Tiến độ sản xuất"
+          },
+          {
+            "text": "Kho vật tư"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Thời tiết",
+        "contentArr": [
+          {
+            "text": "Thời tiết"
+          },
+          {
+            "text": "Nhiệt độ"
+          },
+          {
+            "text": "Ghi chú"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Thống kê",
+        "contentArr": [
+          {
+            "text": "Thời gian làm việc / diện tích"
+          },
+          {
+            "text": "Nông dược"
+          },
+          {
+            "text": "Phân bón"
+          },
+          {
+            "text": "Nguyên vật liệu"
+          },
+          {
+            "text": "Chi phí"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Bạn bè",
+        "contentArr": [
+          {
+            "text": "Đăng ký kết bạn"
+          },
+          {
+            "text": "Thiết lập thông tin chia sẻ"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Bản đồ",
+        "contentArr": [
+          {
+            "text": "Thiết lập điều kiện"
+          },
+          {
+            "text": "Chế độ toàn màn hình"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Mua bán",
+        "contentArr": [
+          {
+            "text": "Quản lý đăng tin"
+          },
+          {
+            "text": "Đặt hàng tồn kho"
+          }
+        ]
+      }
+    ],
+    "image": "/images/banner_ff_register_vn.png"
+  }
+}

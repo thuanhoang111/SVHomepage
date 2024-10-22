@@ -1,0 +1,46 @@
+{
+  "titleHeader": "Tổng quan",
+  "title": "Tổng quan về Sorimachi Việt Nam",
+  "overviews": [
+    {
+      "id": 1,
+      "title": "Chủ tịch HĐTV:",
+      "content": "Sorimachi Hideki"
+    },
+    {
+      "id": 2,
+      "title": "Giám đốc:",
+      "content": "Takahashi Akihiko"
+    },
+    {
+      "id": 3,
+      "title": "Địa chỉ:",
+      "content": "Tầng 9, Cao Ốc Tuổi Trẻ, 60A Hoàng Văn Thụ, Phường 9, Quận Phú Nhuận, TP. Hồ Chí Minh"
+    },
+    {
+      "id": 4,
+      "title": "Điện thoại:",
+      "content": "+84-(0)28-3849-5557"
+    },
+    {
+      "id": 5,
+      "title": "FAX:",
+      "content": "+84-(0)28-3849-5677"
+    },
+    {
+      "id": 6,
+      "title": "Thành lập:",
+      "content": "Tháng 10 năm 2006"
+    },
+    {
+      "id": 7,
+      "title": "Vốn đầu tư:",
+      "content": "100,000USD"
+    },
+    {
+      "id": 8,
+      "title": "Ngân hàng giao dịch:",
+      "content": "Ngân hàng Mitsubishi Tokyo UFJ chi nhánh HCM, ABBANK"
+    }
+  ]
+}

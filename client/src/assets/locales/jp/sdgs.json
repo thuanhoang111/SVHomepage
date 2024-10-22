@@ -1,0 +1,113 @@
+{
+  "titleSDGs": "SDGsとは",
+  "contentSDGs": "SDGsとは「Sustainable Development Goals」の頭文字をとったもので、「持続可能な開発⽬標」と訳され、2030年までに達成すべき国際目標のことです。2015年9⽉の国連サミットにおいて、193 の加盟国の全会⼀致で採択され、社会が抱える問題を解決し、世界全体で2030年を目標に「平和と公正をすべての人にあげる」世界を実現するため17のゴールから構成されます。",
+  "imageSDGs": "/images/img_sustainable_JP.png",
+  "titleMeaning": "SDGsが企業にとってなぜ必要か",
+  "contentMeaning": "SDGsは国連で採択された目標ですが、ビジネスの場においても共通言語になりつつあります。社会や技術がすごい勢いで変化しているこの現在では、10年後の世界がどうなっているのか想像しにくいでしょう。よって、SDGsは、長期的な開発戦略において国々（ベトナムを含む）の政府によって設定された目標だけでなく、企業の社会的責任および企業の持続可能な開発へ繋がるコンパスでもあります。",
+  "journey": {
+    "title": "SDGs達成に向けたソリマチの取り組み",
+    "content": "SDGsの必要性を理解して、ソリマチグループは2016年から、SDgsの目標達成と維持可能な社会の実現に向け、企業活動を通じて社会の課題解決に取り組んでいます。",
+    "journeys": [
+      {
+        "id": 1,
+        "image": "/images/img_target2_SDGs.png",
+        "title": "飢餓をゼロに",
+        "content": "ベトナムでの『農協へのスマート農業導入に係る基礎調査』が独立行政法人国際協力機構JICAでSDGsビジネス支援事業に採択され、貢献事業がスタートしました。",
+        "icon1": "/images/icon_target2_SDGs_JP.png",
+        "icon2": null,
+        "icon3": null,
+        "color": "#D5A600"
+      },
+      {
+        "id": 2,
+        "image": "/images/img_target3_SDGs.png",
+        "title": "すべての人に健康と福祉を",
+        "content": "サッカー、バドミントン、チームビルディング、ランニング募金活動等のスポーツ活動、毎年健康診断を行うことで、従業員の健康を肉体的にも、精神的にも守ります。",
+        "icon1": "/images/icon_target3_SDGs_JP.png",
+        "icon2": null,
+        "icon3": null,
+        "color": "#00953B"
+      },
+      {
+        "id": 3,
+        "image": "/images/img_target5_SDGs.png",
+        "title": "ジェンダー平等を実現しよう",
+        "content": "「女性が輝く」をスローガンにくるみん、国際婦人デー3月8日、ベトナム女性の日10月20日のお祝い活動、出産の手当金、小さな子供を持つ女性従業員が安心に働けるような職場環境を作る等、ジェンダー平等の実現へ積極的に取り組んでいます。",
+        "icon1": "/images/icon_target5_SDGs_JP.png",
+        "icon2": null,
+        "icon3": null,
+        "color": "#E73819"
+      },
+      {
+        "id": 4,
+        "image": "/images/img_target8_SDGs.png",
+        "title": "働きがいも経済成長も",
+        "content": "日本およびベトナムで唯一の「会計データサイエンス企業」になることを目指しています。AI会計特許や、キャッシュレスに関わる特許を持ち、これからの成長分野に挑戦できる基盤を持っています。",
+        "icon1": "/images/icon_target8_SDGs_JP.png",
+        "icon2": null,
+        "icon3": null,
+        "color": "#960A2F"
+      },
+      {
+        "id": 5,
+        "image": "/images/img_target9_SDGs.png",
+        "title": "産業と技術革新の基盤をつくろう",
+        "content": "産業別社会基盤提供企業を目指します。AI会計特許を持ち大量の信用情報を一瞬で取得できる基盤や、mPOS提携などにより更に多くの情報が取得可能となります。",
+        "icon1": "/images/icon_target9_SDGs_JP.png",
+        "icon2": null,
+        "icon3": null,
+        "color": "#EB6A02"
+      },
+      {
+        "id": 6,
+        "image": "/images/img_target10_SDGs.png",
+        "title": "人や国の不平等をなくそう",
+        "content": "ベトナムでは人や国の不平等を減らすべく努めています。日本語能力検定などの受験のほか、勉強会や技術研修、日本派遣を通じ、人々の能力強化や平等の拡大を図っています。",
+        "icon1": "/images/icon_target10_SDGs_JP.png",
+        "icon2": null,
+        "icon3": null,
+        "color": "#DC0179"
+      },
+      {
+        "id": 7,
+        "image": "/images/img_target11_SDGs.png",
+        "title": "住み続けられるまちづくりを",
+        "content": "居住地清掃のボランティア活動を通して、住み続けられるまちづくりに貢献しています。",
+        "icon1": "/images/icon_target11_SDGs_JP.png",
+        "icon2": null,
+        "icon3": null,
+        "color": "#F4A000"
+      },
+      {
+        "id": 8,
+        "image": "/images/img_target13_14_15_SDGs.png",
+        "title": "自然資源",
+        "content": "中長期事業計画に、果敢に挑戦するファーストペンギンを自分たちの目指すべき姿に掲げています。そこで国際環境NGO団体BirdLifeの保護活動に共鳴し、募金活動を実施しています。",
+        "icon1": "/images/icon_target13_SDGs_JP.png",
+        "icon2": "/images/icon_target14_SDGs_JP.png",
+        "icon3": "/images/icon_target15_SDGs_JP.png",
+        "color": "#24A639"
+      },
+      {
+        "id": 9,
+        "image": "/images/img_target16_SDGs.png",
+        "title": "平和と公正をすべての人に",
+        "content": "「長岡まつり大花火大会」で、空襲で亡くなられた方々への慰霊、復興に尽力した先人への感謝。そして恒久平和への願いを込めて花火を打ち上げています。",
+        "icon1": "/images/icon_target16_SDGs_JP.png",
+        "icon2": null,
+        "icon3": null,
+        "color": "#004B85"
+      },
+      {
+        "id": 10,
+        "image": "/images/img_target17_SDGs.png",
+        "title": "パートナーシップで目標を達成しよう",
+        "content": "冒険心と時代の変更を感じられる能力で「産業別社会基盤提供会社」を目指しています。 ソリマチベトナムのWACAおよびFaceFarmは、ベトナム農業農村開発省とベトナム協同組合同盟に、全国規模で導入・展開するソフトとして選定されました。",
+        "icon1": "/images/icon_target17_SDGs_JP.png",
+        "icon2": null,
+        "icon3": null,
+        "color": "#002F67"
+      }
+    ]
+  }
+}

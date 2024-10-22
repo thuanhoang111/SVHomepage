@@ -1,0 +1,29 @@
+{
+  "titleHeader": "Đặc trưng",
+  "specials": [
+    {
+      "id": 1,
+      "title": "Xây dựng đội mạnh nhất",
+      "content": "Đời người chỉ có một lần, làm việc gì cũng quan trọng nhưng mà làm vì ai và hơn tất cả làm điều đó cùng với ai đó mới là điều quan trọng nhất. Những việc không thể làm một mình thì hãy chia sẻ và hợp sức với đồng đội để đạt được mục tiêu. Cùng tạo ra một Đội như vậy là chủ đề quan trọng nhất.",
+      "image": "/images/Special_1.png"
+    },
+    {
+      "id": 2,
+      "title": "Học tập và làm việc theo hiến chương Sorimachi Group",
+      "content": "1. Làm những việc mà người khác không làm được\n2. Làm những việc mà người khác không làm\n3. Làm những việc có ích cho cuộc đời\n4. Suy nghĩ về công việc trên lập trường quốc tế",
+      "image": "/images/Special_2.png"
+    },
+    {
+      "id": 3,
+      "title": "Sự cảm động và lòng biết ơn",
+      "content": "“Tôi mong muốn mọi người lấy Hiến chương SG làm điểm tựa của niềm tin, cảm thấy hài lòng khi vào được group này, gắn bó và làm việc lâu dài tại đây” - Trích lời của người sáng lập Sorimachi Group.",
+      "image": "/images/Special_3.png"
+    },
+    {
+      "id": 4,
+      "title": "Mãi mãi là Hổ Phương Bắc",
+      "content": "Ngay cả trong những tình huống khó khăn, chúng tôi cũng muốn trở thành một tập thể luôn thách thức thử thách, khắc ghi trong tim triết lý làm những việc mà người khác không làm, làm những việc mà người khác không làm được, làm những việc có ích cho cuộc đời. \nBằng cách suy nghĩ đó chúng tôi sẽ luôn mãi là những chú Hổ Phương Bắc, chiến đấu sinh tồn trong môi trường thời tiết khắc nghiệt. \nHãy cố gắng liên tục. Đó là điều chúng ta nên làm.",
+      "image": "/images/Special_4.png"
+    }
+  ]
+}

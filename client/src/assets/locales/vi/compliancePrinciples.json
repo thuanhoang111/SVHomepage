@@ -1,0 +1,79 @@
+{
+  "titleHeader": "Nguyên tắc tuân thủ",
+  "title": "Tuyên bố tuân thủ của Sorimachi Group",
+  "message": "Dựa trên Tuyên bố tuân thủ dưới đây, Sorimachi Group cam kết thực hiện các hành vi tôn trọng pháp luật, đạo đức xã hội, triết lý Công ty, mang đến tương lai sung túc và hạnh phúc, ý nghĩa việc làm cho toàn thể nhân viên, cống hiến vì một xã hội phát triển bền vững.",
+  "date": "Ngày 01 tháng 08 năm 2022",
+  "company": "Sorimachi Group",
+  "person": {
+    "title": "Người đại diện pháp luật",
+    "name": "SORIMACHI HIDEKI"
+  },
+  "compliancePrinciples": [
+    {
+      "id": 1,
+      "title": "Tuân thủ pháp luật",
+      "content": "Chúng tôi, với tư cách nhân viên Công ty Sorimachi Việt Nam đồng thời là một thành viên của xã hội cam kết tuân thủ pháp luật, quy phạm xã hội và nội quy của Công ty.",
+      "image": "/images/Compliance_Principles_1.png"
+    },
+    {
+      "id": 2,
+      "title": "Vì sự hài lòng và nâng cao sự tin tưởng của khách hàng",
+      "content": "Từ sự thấu hiểu nhu cầu của khách hàng, chúng tôi phát triển, cung cấp các sản phẩm với chất lượng vượt trội, giúp nâng cao chất lượng cuộc sống, đạt được sự hài lòng và tin tưởng từ khách hàng.",
+      "image": "/images/Compliance_Principles_2.png"
+    },
+    {
+      "id": 3,
+      "title": "Thực hiện giao dịch hợp pháp, hợp lý",
+      "content": "Chúng tôi thực hiện giao dịch với khách hàng trên quy tắc công bằng, không vi phạm pháp luật. Chúng tôi cũng kiên quyết từ chối các đề nghị bất chính và vi phạm pháp luật từ phía khách hàng.",
+      "image": "/images/Compliance_Principles_3.png"
+    },
+    {
+      "id": 4,
+      "title": "Tuân thủ hợp đồng",
+      "content": "Chúng tôi ký kết hợp đồng với khách hàng trên quy tắc công bằng và tuân thủ các nội dung được đề ra.",
+      "image": "/images/Compliance_Principles_4.png"
+    },
+    {
+      "id": 5,
+      "title": "Sử dụng đúng mục đích hệ thống dữ liệu",
+      "content": "Chúng tôi sử dụng hệ thống dữ liệu vì mục đích công việc và không sử dụng cho bất kỳ mục đích cá nhân nào khác.",
+      "image": "/images/Compliance_Principles_5.png"
+    },
+    {
+      "id": 6,
+      "title": "Quản lý thông tin cơ mật, thông tin cá nhân",
+      "content": "Chúng tôi quản lý nghiêm ngặt thông tin nội bộ và thông tin thu thập hợp pháp từ công ty khác (bao gồm thông tin cá nhân) theo quy định pháp luật và quy định nội bộ (ISMS).",
+      "image": "/images/Compliance_Principles_6.png"
+    },
+    {
+      "id": 7,
+      "title": "Công bố thông tin kinh doanh chính xác, nhanh chóng",
+      "content": "Chúng tôi công bố rõ ràng thông tin kinh doanh đến Công ty mẹ, nhà đầu tư, nỗ lực thực hiện kinh doanh có tính minh bạch cao.",
+      "image": "/images/Compliance_Principles_7.png"
+    },
+    {
+      "id": 8,
+      "title": "Tôn trọng cá nhân",
+      "content": "Chúng tôi tôn trọng quyền của mỗi cá nhân, nỗ lực ngăn chặn các hành vi phân biệt đối xử, bạo hành do khác biệt về chủng tộc, giới tính, tuổi tác, tôn giáo, tín ngưỡng, địa vị xã hội, khiếm khuyết về cơ thể và các hành vi quấy rối công sở.",
+      "image": "/images/Compliance_Principles_8.png"
+    },
+    {
+      "id": 9,
+      "title": "Xây dựng môi trường làm việc thân thiện",
+      "content": "Chúng tôi tuân thủ các quy định pháp luật, nội quy Công ty liên quan đến an toàn vệ sinh lao động để duy trì môi trường làm việc bảo đảm về quyền lợi, an toàn và sức khỏe cho nhân viên.",
+      "image": "/images/Compliance_Principles_9.png"
+    },
+    {
+      "id": 10,
+      "title": "Ngôn ngữ",
+      "content": "Tuyên bố này được lập bằng tiếng Việt và tiếng Nhật. Trong trường hợp có sự không nhất quán, bản tiếng Việt sẽ được ưu tiên áp dụng.",
+      "image": "/images/Compliance_Principles_10.png"
+    },
+    {
+      "id": 11,
+      "title": "Cập nhật",
+      "content": "Chúng tôi được quyền sửa đổi Tuyên bố này nhằm phù hợp với từng thời điểm và sẽ cung cấp những cập nhật đó cho quý khách hàng.",
+      "image": "/images/Compliance_Principles_11.png"
+    }
+  ]
+}

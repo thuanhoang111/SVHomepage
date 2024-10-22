@@ -1,0 +1,279 @@
+{
+  "titleHeader": "Tuyển dụng",
+  "employeePolicy": {
+    "titleEmployPolicy": "Chính sách cho người lao động",
+    "policy": [
+      {
+        "title": "Sự tự giác - Trí tưởng tượng - Ý chí tự do",
+        "content": "Với mục tiêu phát triển Công ty có thể tồn tại hàng trăm năm, chúng tôi đang muốn tìm kiếm những ứng viên có những phẩm chất sau: ",
+        "image": "/images/free_will.png",
+        "contentArr": [
+          {
+            "text": "Sáng tạo, đứng trên lập trường của đối phương, tư duy linh hoạt và hành động nhanh chóng."
+          },
+          {
+            "text": "Nhiệt huyết, luôn muốn hoàn thiện bản thân để trưởng thành."
+          }
+        ]
+      },
+      {
+        "title": "Chính sách đãi ngộ",
+        "content": "Sorimachi Việt Nam chú trọng tạo ra môi trường làm việc “đầy đủ về vật chất và phong phú về tinh thần”, quan tâm đến đời sống của cán bộ nhân viên. Chính sách đãi ngộ của Sorimachi Việt Nam  được xây dựng dựa trên các tiêu chí sau:",
+        "image": "/images/dai_ngo.jpg",
+        "contentArr": [
+          {
+            "text": "Cơ hội đi Nhật làm việc."
+          },
+          {
+            "text": "Học tiếng Nhật miễn phí."
+          },
+          {
+            "text": "Khuyến khích tăng năng suất và chất lượng công việc."
+          },
+          {
+            "text": "Công bằng và minh bạch."
+          }
+        ]
+      },
+      {
+        "title": "Hệ thống đãi ngộ",
+        "image": "/images/dai_ngo_2.jpg",
+        "contentArr": [
+          {
+            "text": "Lương: Lương sản xuất kinh doanh (12 tháng)."
+          },
+          {
+            "text": "Thưởng lương tháng thứ 13 tuỳ theo tình hình SXKD của Công ty."
+          },
+          {
+            "text": "Phụ cấp: cho một số vị trí phục vụ công việc gồm hỗ trợ đi lại, cước điện thoại di động, kiêm nhiệm."
+          },
+          {
+            "text": "Thưởng theo hiệu quả kinh doanh và theo thành tích thực hiện dự án/công việc."
+          },
+          {
+            "text": "Tham gia BHXH / BHYT / BHTN ngay sau khi ký hợp đồng chính thức."
+          }
+        ]
+      },
+      {
+        "title": "Chăm sóc sức khỏe",
+        "content": "Chính sách chăm sóc sức khoẻ của Sorimachi Việt Nam được thiết kế đặc biệt để cán bộ nhân viên luôn có được thể trạng tốt nhất, từ đó phát huy tính sáng tạo, nâng cao hiệu quả công việc:",
+        "image": "/images/cham_soc_suc_khoe.jpg",
+        "contentArr": [
+          {
+            "text": "Kiểm tra sức khỏe định kỳ miễn phí 01 lần/năm."
+          },
+          {
+            "text": "Chế độ nghỉ mát hằng năm."
+          }
+        ]
+      }
+    ]
+  },
+  "recruitmentProcess": {
+    "titleRecruitmentProcess": "Quy trình tuyển dụng",
+    "process": [
+      {
+        "title": "Ứng tuyển",
+        "image": "/images/ung_tuyen.jpg",
+        "contentArr": [
+          {
+            "text": "Ứng viên quan tâm tìm hiểu về các vị trí tuyển dụng làm việc tại Công ty, cách thức dự tuyển tại Tab Tuyển dụng."
+          },
+          {
+            "text": "Link: Gửi Mẫu thông tin ứng viên hoặc Sơ yếu lý lịch tự thuật (CV) bao gồm các thông tin cá nhân, quá trình học tập, kinh nghiệm, mục tiêu, sở thích cá nhân... về cho Bộ phận Tuyển dụng theo các phương pháp được hướng dẫn trong các tin đăng tuyển."
+          }
+        ]
+      },
+      {
+        "title": "Tiếp nhận và sàng lọc hồ sơ",
+        "content": "Sau khi ứng viên nộp hồ sơ, thông tin ứng tuyển, chúng tôi sẽ chọn ra những ứng viên phù hợp với yêu cầu của vị trí cần tuyển để mời tham gia vòng thi trắc nghiệm và viết luận. Hồ sơ chưa phù hợp, chúng tôi sẽ lưu lại cho những lần sau.",
+        "image": "/images/tiep_nhan_ho_so.jpg"
+      },
+      {
+        "title": "Vòng thi trắc nghiệm và viết luận",
+        "image": "/images/kiem_tra.jpg",
+        "contentArr": [
+          {
+            "text": "IQ - Kiểm tra tư duy logic"
+          },
+          {
+            "text": "Các bài thi chuyên môn (Tương ứng với vị trí dự tuyển)."
+          },
+          {
+            "text": "Có hai hình thức thi đầu vào được áp dụng là: online và làm bài giấy trực tiếp"
+          }
+        ]
+      },
+      {
+        "title": "Phỏng vấn",
+        "content": "Đây là lần gặp gỡ chính thức đầu tiên giữa ứng viên và Công ty. Thông qua buổi phỏng vấn này, Công ty có thêm các thông tin để đánh giá mức độ phù hợp của ứng viên dự tuyển với công việc cần tuyển. \n\nMột số yếu tố chính Công ty thường xem xét khi phỏng vấn ứng viên gồm: Khả năng giao tiếp, khả năng làm việc (độc lập hay theo nhóm), khả năng tổ chức công việc và lập kế hoạch, khả năng tư duy và giải quyết vấn đề, kiểm tra lại một số thông tin trong hồ sơ: Quá trình học tập, kinh nghiệm, kỹ năng... Trong buổi phỏng vấn này, các ứng viên cũng có thể hỏi Công ty các vấn đề liên quan. Tùy từng ứng viên và vị trí có thể có nhiều hơn một buổi phỏng vấn. Ứng viên được lựa chọn sẽ nhận được thư mời làm việc trong vòng 1 tuần kể từ ngày phỏng vấn.",
+        "image": "/images/phong_van.jpg"
+      },
+      {
+        "title": "Thư mời làm việc",
+        "content": "Các ứng viên được lựa chọn sẽ nhận được thư mời thử việc gồm: vị trí công việc, mức lương, thời gian bắt đầu... Mọi việc tiếp theo được thực hiện theo hướng dẫn của cán bộ phụ trách trực tiếp và cán bộ Nhân sự.",
+        "image": "/images/thoa_thuan_hop_dong.jpg"
+      },
+      {
+        "title": "Hoàn thiện hồ sơ",
+        "content": "Sau khi nhận thư mời thử việc, ứng viên cần chuẩn bị các giấy tờ sau và gửi tới cán bộ nhân sự để hoàn thiện thủ tục tiếp nhận nhân viên mới:",
+        "image": "/images/hoan_thien_ho_so.jpg",
+        "contentArr": [
+          {
+            "text": "Sơ yếu lý lịch bản gốc"
+          },
+          {
+            "text": "Bằng tốt nghiệp (bản scan)"
+          },
+          {
+            "text": "Căn cước công dân (bản scan)"
+          },
+          {
+            "text": "Bảng điểm, chứng chỉ (bản scan)"
+          },
+          {
+            "text": "Hình thẻ (File Jpg)"
+          }
+        ]
+      }
+    ]
+  },
+  "recruitChildren": {
+    "titleRecruitChildren": "Tuyển dụng",
+    "description": {
+      "title": "Mô tả công việc",
+      "content": "Lập trình ứng dụng trên Windows, Web Application"
+    },
+    "require": {
+      "title": "Yêu cầu công việc",
+      "content": "Trình Độ: Đã tốt nghiệp hoặc sắp tốt nghiệp đại học liên quan đến các ngành CNTT.\nĐộ tuổi: Dưới 30 tuổi.",
+      "contentArr": [
+        {
+          "title": "1. Lập trình ứng dụng",
+          "content": "• Có kiến thức về Borland C++ (Embarcadero XE7), VC++, SQL Server"
+        },
+        {
+          "title": "2. Lập trình Web (ASP.NET)",
+          "content": "• Có kiến thức về C#, MVC, SQL Server, CSS, JS, Jquery, SQL Server"
+        },
+        {
+          "title": "3. Lập trình Web (PHP)",
+          "content": "• Có kiến thức về PHP, (ưu tiên biết thêm WordPress), CSS, JS, Jquery, MySQL"
+        }
+      ],
+      "note": "※ Ưu tiên đối với các ứng viên: Có kiến thức về Smart Phone Application."
+    },
+    "regime": {
+      "title": "Chế độ đãi ngộ",
+      "contentArr": [
+        {
+          "content": "• Cơ hội đi Nhật làm việc.\n • Được học tiếng Nhật miễn phí, môi trường làm việc thân thiện.\n• Được đóng BHXH, BHYT và BHTN ngay sau khi ký hợp đồng chính thức.\n• Có chế độ khám sức khỏe định kỳ 1 năm 1 lần."
+        },
+        {
+          "content": "• Du lịch công ty 1 năm 1 lần, tham gia các hoạt động thể thao như đá banh, cầu lông…\n• Thời gian làm việc 8：00～17：00\n• Ngày nghỉ Thứ 7, Chủ nhật và các ngày lễ."
+        }
+      ]
+    },
+    "skill": {
+      "title": "Yêu cầu kỹ năng",
+      "content": "Kỹ năng tư duy tốt, giải quyết vấn đề, làm việc nhóm."
+    },
+    "contact": {
+      "title": "Liên hệ",
+      "content": {
+        "phone": "Ms. Huệ ĐT: ",
+        "email": "E-mail: "
+      }
+    }
+  },
+  "registrationForm": {
+    "titleRegistrationForm": "Ứng tuyển",
+    "register": {
+      "title": "Tuyển sinh viên mới tốt nghiệp",
+      "content": "Xin bạn vui lòng dành chút thời gian nhập thông tin vào mẫu đơn sau đây và gửi cho chúng tôi.\nĐối với các bạn đã đăng ký, chúng tôi sẽ gửi thông tin hướng dẫn và giải thích vào ngày hôm sau.\nCần lưu ý rằng, các bạn đã đăng ký thông tin tại đây không cần phải gửi hồ sơ qua email.",
+      "name": {
+        "title": "Họ tên ",
+        "placeholder": "Nguyễn Văn A",
+        "error": "Vui lòng nhập tên"
+      },
+      "address": {
+        "title": "Địa chỉ ",
+        "placeholder": "Tầng 9, Cao Ốc Tuổi Trẻ, 60A Hoàng Văn Thụ, P. 9, Quận Phú Nhuận, TP. Hồ Chí Minh",
+        "error": "Vui lòng nhập địa chỉ"
+      },
+      "gender": {
+        "title": "Giới tính ",
+        "options": [
+          {
+            "id": 1,
+            "title": "Nam"
+          },
+          {
+            "id": 2,
+            "title": "Nữ"
+          },
+          {
+            "id": 3,
+            "title": "Khác"
+          }
+        ],
+        "placeholder": "",
+        "error": "Vui lòng chọn giới tính"
+      },
+      "birthday": {
+        "title": "Năm sinh ",
+        "placeholder": "",
+        "error": {
+          "required": "Vui lòng chọn ngày sinh",
+          "matches": "Vui lòng nhập ngày sinh hợp lệ",
+          "test": "Bạn phải lớn hơn hoặc bằng 18 tuổi"
+        }
+      },
+      "university": {
+        "title": "Trường tốt nghiệp ",
+        "placeholder": "Đại học ..."
+      },
+      "major": {
+        "title": "Chuyên ngành ",
+        "placeholder": "Công nghệ thông tin",
+        "error": "Vui lòng nhập chuyên ngành"
+      },
+      "phone": {
+        "title": "Điện thoại ",
+        "placeholder": "+84-(0)28-3849-5557",
+        "error": {
+          "required": "Vui lòng nhập số điện thoại",
+          "matches": "Vui lòng nhập số điện thoại hợp lệ"
+        }
+      },
+      "email": {
+        "title": "Email ",
+        "placeholder": "hueho@sorimachigroup.vn",
+        "error": {
+          "email": "Vui lòng nhập email hợp lệ",
+          "required": "Vui lòng nhập email"
+        }
+      },
+      "contentFrom": {
+        "title": "Nội dung ",
+        "placeholder": "Nội dung ...",
+        "error": "Vui lòng nhập nội dung"
+      },
+      "document": {
+        "title": "Tài liệu đính kèm ",
+        "button": "Chọn tệp",
+        "message": "Không có tệp nào"
+      },
+      "buttonSend": "Gửi ngay",
+      "tooltipDelete": "Xóa tất cả",
+      "alertSuccess": "Đã gửi thành công!"
+    },
+    "security": {
+      "title": "Bảo mật thông tin",
+      "content": "Thông tin cá nhân mà bạn cung cấp sẽ được bảo mật và chỉ được sử dụng cho mục đích liên lạc tuyển dụng như gửi tài liệu, e-mail và trao đổi bằng điện thoại, không sử dụng cho mục đích cá nhân khác.",
+      "confirm": "Tôi đồng ý với các điều khoản về sử dụng thông tin cá nhân"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "titleHeader": "Liên hệ",
+  "formContact": {
+    "title": "Thông tin liên lạc",
+    "content": "Xin điền thông tin vào mẫu dưới đây và gửi cho chúng tôi.\nChúng tôi muốn lắng nghe từ bạn!",
+    "name": {
+      "title": "Họ tên ",
+      "placeholder": "Nguyễn Văn A",
+      "error": "Vui lòng nhập tên"
+    },
+    "company": {
+      "title": "Tên Công ty",
+      "placeholder": "Sorimachi Việt Nam"
+    },
+    "address": {
+      "title": "Địa chỉ ",
+      "placeholder": "Tầng 9, Cao Ốc Tuổi Trẻ, 60A Hoàng Văn Thụ, P. 9, Quận Phú Nhuận, TP. Hồ Chí Minh"
+    },
+    "phone": {
+      "title": "Điện thoại ",
+      "placeholder": "+84-(0)28-3849-5557",
+      "error": {
+        "required": "Vui lòng nhập số điện thoại",
+        "matches": "Vui lòng nhập số điện thoại hợp lệ"
+      }
+    },
+    "email": {
+      "title": "Email ",
+      "placeholder": "hueho@sorimachigroup.vn",
+      "error": {
+        "email": "Vui lòng nhập email hợp lệ",
+        "required": "Vui lòng nhập email"
+      }
+    },
+    "contentForm": {
+      "title": "Nội dung câu hỏi ",
+      "placeholder": "Nội dung câu hỏi ...",
+      "error": "Vui lòng nhập nội dung"
+    },
+    "buttonSend": "Gửi ngay",
+    "tooltipDelete": "Xóa tất cả",
+    "alertSuccess": "Đã gửi thành công!"
+  }
+}
